@@ -6,7 +6,10 @@ tags:
   - dactl
 description: >
   Howdy!
-hero: https://github.com/xjmzx/xjmzx.github.io/uploads/x.jpg
+
+image:
+  path:    /uploads/x.jpg
+hero:
 overlay: green
 published: true
 ---

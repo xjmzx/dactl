@@ -4,7 +4,8 @@ title: Noting Feet
 tags:
   - jmzx
   - howto
-hero: https://github.com/xjmzx/xjmzx.github.io/blob/06329ee1abcf8506d8da88fea7e2fb092bc5a996/uploads/x.jpg
+  image:
+    path: https://github.com/xjmzx/xjmzx.github.io/blob/06329ee1abcf8506d8da88fea7e2fb092bc5a996/uploads/x.jpg
 overlay: red
 published: true
 ---
