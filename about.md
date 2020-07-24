@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About jmzx
 permalink: /about/
 published: true
 ---
@@ -18,8 +18,6 @@ published: true
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
-## Snooker
-
-I hate surprise parties. I would *never* do that to you.
+## I hate Snooker parties. I would *never* do that to you.
 
 </div>

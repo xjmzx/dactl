@@ -1,11 +1,11 @@
 # jmzx
-dactl is a fast, modern and configurable [Jekyll](http://jekyllrb.com/) theme with some tricks up it's sleeve. It has a live theme switcher and it's main blog layout display prominent hero images for posts with colored overlays and nice animations.
+dactl is a fast, modern and configurable [Jekyll](http://jekyllrb.com/) theme with some tricks up it's sleeve..
 
 ![light theme](uploads/screenshot_desktop_light.jpg)
 ![dark theme](uploads/screenshot_desktop_dark.jpg)
 
 ## Features
-Though minimalistic-looking by nature, dactl is easily configurable and includes quite a lot of niceties:
+Though minimalistic-looking by nature, jmzx is easily configurable and includes quite a lot of niceties:
 
 Main features:
 * Customizable blog layout - choose how your posts will be displayed
@@ -15,7 +15,7 @@ Main features:
 * Typography and components size set in `rem` and `em` which makes them easily scalable
 * Responsive design
 
-Jekyll-specific features:
+Jekyll
 * Pagination (default: 5 posts per page)
 * Fully compatible with Jekyll 3.x and GitHub Pages
 * SEO optimized
@@ -29,9 +29,7 @@ Other features:
 * Tags functionality and tags pages
 * Link posts functionality
 
-Some of the features listed above can be easily configured or disabled by you.
-
-## Information about dactl
+## Information
 At it's core, dactl is a forked version of [daktilo](https://github.com/kronik3r/daktilo) but it has been almost entirely rewritten from scratch.  
 I have just started my journey in the world of web development, learning new things on the way.  
 Looking for a way to put my newly acquired skills to test I found Jekyll and I quickly realized that it's going to be a good learning experience since I don't like building 'dummy' projects.  
