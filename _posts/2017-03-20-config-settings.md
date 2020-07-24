@@ -7,6 +7,7 @@ tags:
   - howto
 hero: https://user-images.githubusercontent.com/1854925/88293395-26ffbe00-cd25-11ea-8ebc-f282733941b8.png
 overlay: red
+published: true
 ---
 
 All of the dactl's configurations has to be set in `_config.yml` file. Read on for explanation of all of the features that you can toggle, including configuring the layout.

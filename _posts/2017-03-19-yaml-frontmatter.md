@@ -7,6 +7,7 @@ tags:
   - howto
 hero: https://user-images.githubusercontent.com/1854925/88293395-26ffbe00-cd25-11ea-8ebc-f282733941b8.png
 overlay: orange
+published: true
 ---
 
 In order to use dactl's post images with overlays you'll need to learn how to set them. You do that in post's YAML frontmatter and I'll show you how.

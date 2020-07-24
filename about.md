@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About jmzx
+title: about jmzx
 permalink: /about/
 published: true
 ---

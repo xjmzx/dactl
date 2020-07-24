@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Example content
+title: Example
 tags:
   - jekyll
   - dactl
 description: >
-  Howdy! This is an example blog post that shows several types of HTML content
-  supported in this theme.
+  Howdy!
 hero: https://source.unsplash.com/collection/145103/
 overlay: green
 published: true
@@ -58,7 +57,7 @@ adder(2, 6);
 
 ## Lists
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+justo sit amet risus.
 
 * Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
 * Donec id elit non mi porta gravida at eget metus.
@@ -109,10 +108,6 @@ Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, conse
 Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
 
 ## Math
-
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-Nullam id [^2] dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
 
 [^1]: You can insert footnote marks using `[^1]`, `[^2]`, etc and write the footnote text at the bottom of your file like this: `[^1]: You can also insert footnote marks...`
 

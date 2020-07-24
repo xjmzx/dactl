@@ -6,6 +6,7 @@ tags:
   - howto
 hero: https://user-images.githubusercontent.com/1854925/88293395-26ffbe00-cd25-11ea-8ebc-f282733941b8.png
 overlay: green
+published: true
 ---
 
 Tags are built using Jekyll's native categories functionality and you need to add them manually as files before using them in posts. Read on to learn how.
