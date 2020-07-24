@@ -4,7 +4,7 @@ title: Example
 tags:
   - jekyll
   - dactl
-hero: https://unsplash.com/photos/ZpYWQTaGRUY
+hero: https://unsplash.com/collections/11513716/
 overlay: green
 published: true
 ---
