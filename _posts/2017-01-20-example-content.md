@@ -6,10 +6,7 @@ tags:
   - dactl
 description: >
   Howdy!
-
-image:
-  path:    /uploads/x.jpg
-hero:
+hero: https://unsplash.com/photos/ZpYWQTaGRUY
 overlay: green
 published: true
 ---
