@@ -9,7 +9,7 @@ overlay: red
 published: true
 
 ---
-but the most common way is to run `jekyll serve`.
+this is site is run on `jekyll serve`.
 {: .lead}
 <!–-break-–>
 This launches a web server and auto-regenerates your site when a file is updated.  
