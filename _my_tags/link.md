@@ -1,0 +1,4 @@
+---
+slug: link
+name: link
+---
