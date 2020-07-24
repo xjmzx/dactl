@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Welcome to dactl!"
+title:  "Welcome!"
 tags:
   - dactl
   - jekyll
-hero: https://source.unsplash.com/collection/430471/
+hero: https://user-images.githubusercontent.com/1854925/88293395-26ffbe00-cd25-11ea-8ebc-f282733941b8.png
 overlay: red
 published: true
 
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`.
+but the most common way is to run `jekyll serve`.
 {: .lead}
 <!–-break-–>
 This launches a web server and auto-regenerates your site when a file is updated.  

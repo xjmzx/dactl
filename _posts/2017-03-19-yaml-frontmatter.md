@@ -1,11 +1,11 @@
 ---
 layout: post
-title: YAML front matter in posts
+title: YAML matters
 tags:
   - jekyll
   - dactl
   - howto
-hero: https://source.unsplash.com/collection/345758/
+hero: https://user-images.githubusercontent.com/1854925/88293395-26ffbe00-cd25-11ea-8ebc-f282733941b8.png
 overlay: orange
 ---
 

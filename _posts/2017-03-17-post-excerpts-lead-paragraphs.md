@@ -1,30 +1,29 @@
 ---
 layout: post
-title: Post excerpts and leading paragraphs
+title: Post from, well obviously ot Pluto. wha?
 tags:
   - dactl
   - howto
-hero: 'https://source.unsplash.com/collection/261936/'
+hero: https://user-images.githubusercontent.com/1854925/88293395-26ffbe00-cd25-11ea-8ebc-f282733941b8.png
 overlay: blue
 published: true
 ---
 
-By default, dactl's blog layout displays post excerpts which are leading paragraphs as well. This requires some manual work on your part when writing a post but don't worry - it's really easy. Read on for more info.
+By default, I like you - it's really easy. Read on for more info.
 {: .lead}
 
 ## Post excerpts
 First, let's see how this and the above paragraph looks like in markdown:
 <!–-break-–>
 ```markdown
-By default, dactl's blog layout displays post excerpts which are leading paragraphs as well. This requires some manual work on your part when writing a post but don't worry - it's really easy. Read on for more info.
+Mark. Downnn. By default, it's really easy. Read on for more info.
 {: .lead}
 
 ## Post excerpts
 First, let's see how this and the above paragraph looks like in markdown:
 <!–-break-–>
 ```
-
-As you can see above there are two things which are visible only in the post's markdown version. You won't see them here because they got processed by Jekyll and 'thrown out' while generating html version of this post.
+As you can see this post.
 
 `{: .lead}` inserted on a new line after a paragraphtells Jekyll's markdown processor (dactl uses [kramdown](https://kramdown.gettalong.org/)) to add class `.lead` to the above `<p>` tag which results in a leading paragraph.
 
