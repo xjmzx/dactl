@@ -1,19 +1,18 @@
 {% comment %}
+This solution relies on background-image,
+it's easier to make the background-image stretch to fill the container.
 
-Jekyll needs to process this file in order to append a correct image and add classes to post heading containers.
-These classes get injected just before corresponding posts and are named after post-titles.
+It also needs both :before and :after pseudoclasses to work,
+that's the only way to add webkit-filter and mix-blend-mode properties
+which only affect the background-image and not other elements in that div.
 
-This solution relies on background-image, it's easier to make the background-image stretch to fill the container.
-
-It also needs both :before and :after pseudoclasses to work, that's the only way to add webkit-filter and mix-blend-mode properties which only affect the background-image and not other elements in that div.
-* :before - sets the background image to one set in post and adds a webkit-filter to it
-* :after - adds an colored overlay on the image which you can also specify when creating post.
-
-
+* :before - sets the background image to one set in post
+and adds a webkit-filter to it
+* :after - adds an colored overlay on the image
+which you can also specify when creating post.
   {% comment %}
     {{ hero | prepend: site.baseurl }}'
     {% endcomment %}
-
 {% endcomment %}
 
 {% if post.hero != nil %}

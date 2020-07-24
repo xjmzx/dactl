@@ -3,9 +3,9 @@ layout: post
 title: YAML matters
 tags:
   - jekyll
-  - dactl
-  - howto
-hero: https://user-images.githubusercontent.com/1854925/88293395-26ffbe00-cd25-11ea-8ebc-f282733941b8.png
+  - jmzx
+  - yaml
+hero: https://user-images.githubusercontent.com/1854925/88423407-f0ee3700-ce15-11ea-9710-8b3b8f5aee2a.jpg
 overlay: orange
 published: true
 ---
