@@ -4,7 +4,7 @@ title: Noting Feet
 tags:
   - jmzx
   - howto
-  hero: https://unsplash.com/photos/ZpYWQTaGRUY
+hero: https://unsplash.com/photos/ZpYWQTaGRUY
 overlay: red
 published: true
 ---

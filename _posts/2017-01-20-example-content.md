@@ -4,8 +4,6 @@ title: Example
 tags:
   - jekyll
   - dactl
-description: >
-  Howdy!
 hero: https://unsplash.com/photos/ZpYWQTaGRUY
 overlay: green
 published: true
