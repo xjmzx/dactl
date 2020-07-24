@@ -5,7 +5,7 @@ tags:
   - jekyll
   - jmzx
   - yaml
-hero: https://user-images.githubusercontent.com/1854925/88423407-f0ee3700-ce15-11ea-9710-8b3b8f5aee2a.jpg
+hero: https://github.com/xjmzx/xjmzx.github.io/blob/06329ee1abcf8506d8da88fea7e2fb092bc5a996/uploads/x.jpg
 overlay: orange
 published: true
 ---

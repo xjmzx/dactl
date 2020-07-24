@@ -4,7 +4,7 @@ title: Post from, well obviously ot Pluto. wha?
 tags:
   - jmzx
   - howto
-hero: https://user-images.githubusercontent.com/1854925/88293395-26ffbe00-cd25-11ea-8ebc-f282733941b8.png
+hero: https://github.com/xjmzx/xjmzx.github.io/blob/06329ee1abcf8506d8da88fea7e2fb092bc5a996/uploads/x.jpg
 overlay: blue
 published: true
 ---
