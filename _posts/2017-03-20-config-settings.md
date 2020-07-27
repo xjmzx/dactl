@@ -5,7 +5,7 @@ tags:
   - jekyll
   - dactl
   - howto
-hero: https://unsplash.com/photos/hRp6mh7xv3k
+hero: https://unsplash.com/collections/11528826/jamaica
 overlay: red
 published: true
 ---
