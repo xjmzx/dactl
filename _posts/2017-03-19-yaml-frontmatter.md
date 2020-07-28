@@ -10,11 +10,10 @@ overlay: orange
 published: true
 ---
 
-In order to use dactl's post images with overlays you'll need to learn how to set them. You do that in post's YAML frontmatter and I'll show you how.
 {: .lead}
 
 ## YAML Front matter
-Each Jekyll post starts with YAML Front [^1]. For example, this is how this post would look like if I wanted to use all of the options:
+Each Jekyll post starts with YAML Front [^1].
 <!–-break-–>
 
 ~~~yaml
@@ -29,9 +28,6 @@ overlay: purple
 link: https://link-to-some-page.com
 ---
 ~~~
-
-As you can see it has a couple of options, some of them are required by Jekyll (layout, title), some are required by dactl theme when set to default hero layout (hero) and some are completely optional (overlay, link).  
-I'll go through what each option means, what it affects and how to use it.
 
 ### Layout
 This just tells Jekyll to use post layout.

@@ -10,16 +10,12 @@ overlay: red
 published: true
 ---
 
-`YYYY-MM-DD-name-of-post.ext` welcome.
 
 ~~~ruby
-def print_hi(welcome)
-  puts "Welcome, #{welcome}"
-end
-print_hi('welcome')
-#=> prints 'Welcome, Welcome' to STDOUT.
+
+jekyll bundle exec serve
+
 ~~~
 
-Check out the [soundcloud][link] for more info.
-
 [soundcloud]: http://soundloud.com/jmzx
+[jekyll]:      http://jekyllrb.com
