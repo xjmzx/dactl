@@ -50,7 +50,6 @@ Quisque.
 ![1200x700](https://unsplash.com/collections/11528826/jamaica"){:.oversize}
 ![800x400](https://unsplash.com/collections/11528826/jamaica"){:.lead}
 ![400x200](https://unsplash.com/collections/11528826/jamaica")
-![200x200](http://placehold.it/200x200 "Small example image")
 
 ## Math
 

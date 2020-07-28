@@ -64,9 +64,8 @@ overlay: purple
 ```
 
 ### Link post
-I've included link post functionality (a'la [Daring Fireball](http://daringfireball.net/)) in dactl.  
+I've included link post functionality (a'la [Daring Fireball](https://daringfireball.net/)) in dactl.  
 If you put webpage's address in that field then that post becomes a link post.  
-Title of that post (on blog page only) becomes a link to the webpage you set the address to. To access the content of the post you need to click on 'Read more' link. To access a link post content in layout with titles only you need to click a meta link which shows up between date and tags.
 ```yaml
 link: https://link-to-some-page.com
 ```

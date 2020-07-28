@@ -16,7 +16,7 @@ By default, I like you - it's really easy. Read on for more info.
 First, let's see how this and the above paragraph looks like in markdown:
 <!–-break-–>
 ```markdown
-Mark. Downnn. By default, it's really easy. Read on for more info.
+Really easy. Read on for more info.
 {: .lead}
 
 ## Post excerpts
