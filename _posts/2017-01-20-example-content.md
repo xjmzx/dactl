@@ -1,35 +1,34 @@
 ---
 layout: post
-title: Example
+title: Exhale
 tags:
-  - jekyll
-  - dactl
-hero: https://images.unsplash.com/photo-1557129603-ff35a0c70e5e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1MTM5Nn0 
+  - exhale
+  - jmzx
+hero: https://unsplash.com/collections/11528826/jamaica
 overlay: green
 published: true
 ---
 
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.*  purus sit amet fermentum.
+Screwed `**bold**`things. **he said**
 {: .lead}
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+no.
 <!–-break-–>
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+> elit.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Etiam `*To italicize text*`consectetur.
 {: .notice}
 
 ## Inline HTML elements
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+HTML defines a long list of available inline tags
+[Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
 
-- **To bold text**, use `**To bold text**`.
-- *To italicize text*, use `*To italicize text*`.
-- Abbreviations, like HTML should be defined like this `*[HTML]: HyperText Markup Language`.
-- Citations, like <cite>&mdash; Mark otto</cite>, should use `<cite>`.
-- ~~Deleted~~ text should use `~~deleted~~` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`[^1].
+- `*[HTML]: HyperText Markup Language`
+- <cite>&mdash; `<cite>`.
+- ~~Deleted~~ text should use `~~deleted~~` `<ins>`.
+- Superscript <sup>text</sup> uses `<sup>` `<sub>`[^1].
 
 Most of these elements are styled by browsers with few modifications on our part.
 
@@ -67,29 +66,13 @@ Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a p
 2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 3. Maecenas sed diam eget risus varius blandit sit amet non magna.
 
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-HyperText Markup Language (HTML)
-: The language used to describe and define the content of a Web page
-
-Cascading Style Sheets (CSS)
-: Used to describe the appearance of Web content
-
-JavaScript (JS)
-: The programming language used to build advanced Web sites and applications
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-{: .notice-alert}
-
 ## Images
 
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
 
-![1200x700](http://placehold.it/1200x700 "Large example image"){:.oversize}
-![800x400](http://placehold.it/800x400 "Large example image"){:.lead}
-![400x200](http://placehold.it/400x200 "Medium example image")
+![1200x700](https://unsplash.com/collections/11528826/jamaica"){:.oversize}
+![800x400](https://unsplash.com/collections/11528826/jamaica"){:.lead}
+![400x200](https://unsplash.com/collections/11528826/jamaica")
 ![200x200](http://placehold.it/200x200 "Small example image")
 
 ## Tables
