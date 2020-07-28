@@ -4,7 +4,7 @@ title: Post from, well obviously ot Pluto. wha?
 tags:
   - jmzx
   - howto
-hero: https://unsplash.com/photos/S8a1ZRS4jBQ
+hero: `https://unsplash.com/photos/S8a1ZRS4jBQ`
 overlay: blue
 published: true
 ---
