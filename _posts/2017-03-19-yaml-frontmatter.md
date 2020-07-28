@@ -5,7 +5,7 @@ tags:
   - jekyll
   - jmzx
   - yaml
-hero: https://unsplash.com/collections/11528826/jamaica
+hero: https://unsplash.com/photos/ZZ1FkY2LVjI
 overlay: orange
 published: true
 ---

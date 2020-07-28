@@ -4,7 +4,7 @@ title: 'Tag wha'
 tags:
   - jmzx
   - howto
-hero: https://unsplash.com/collections/11528826/jamaica
+hero: https://unsplash.com/photos/y3rgrnXAZxo
 overlay: green
 published: true
 ---

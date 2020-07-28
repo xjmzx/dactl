@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "the interplanatory detuned rootalogical state"
+title:  "the detuned strings of atlanta"
 tags:
-  - new & old vibes
-  - made with jekyll
-  - and githubpages
-hero: https://unsplash.com/collections/11528826/jamaica
+  - vibes
+  - jekyll
+  - githubpages
+hero: https://unsplash.com/photos/tYFyHYbuHcw
 overlay: red
 published: true
 ---

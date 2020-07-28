@@ -5,7 +5,7 @@ tags:
   - new & old vibes
   - made with jekyll
   - and githubpages
-hero: https://unsplash.com/collections/11528826/jamaica
+hero: https://unsplash.com/photos/j-0WQPfI3RU
 overlay: red
 published: true
 

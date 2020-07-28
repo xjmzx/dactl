@@ -1,6 +1,6 @@
 ---
-slug: dactl
-name: dactl
+slug: jmzx
+name: jmzx
 description: >
   This tag has the description filled in - check it out `_my_tags/dactyl.md`
 ---

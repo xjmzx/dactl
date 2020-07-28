@@ -1,4 +1,4 @@
 ---
-slug: howto
-name: How to
+slug: vibes
+name: Vibes
 ---
