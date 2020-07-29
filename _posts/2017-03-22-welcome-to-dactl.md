@@ -6,7 +6,6 @@ tags:
   - made with jekyll
   - and githubpages
 hero: 'https://source.unsplash.com/user/jmzx'
-overlay: orange
 published: true
 
 ---

@@ -5,7 +5,6 @@ tags:
   - exhale
   - jmzx
 hero: 'https://source.unsplash.com/collection/11539493'
-overlay: green
 published: true
 ---
 
@@ -27,23 +26,10 @@ HTML
 - ~~Deleted~~ text should use `~~deleted~~` `<ins>`.
 - Superscript <sup>text</sup> uses `<sup>` `<sub>`[^1].
 
-Our part.
 ## Heading
 Veros.
 ## Code
 Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-~~~js
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-~~~
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
 
 ## Images
 Quisque.

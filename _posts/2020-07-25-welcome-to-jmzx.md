@@ -6,16 +6,8 @@ tags:
   - jekyll
   - githubpages
 hero: 'https://source.unsplash.com/user/jmzx'
-overlay: red
 published: true
 ---
-
-
-~~~ruby
-
-jekyll bundle exec serve
-
-~~~
 
 [soundcloud]: http://soundloud.com/jmzx
 [jekyll]:      http://jekyllrb.com

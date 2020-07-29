@@ -5,7 +5,6 @@ tags:
   - jmzx
   - how
 hero: 'https://source.unsplash.com/user/jmzx'
-overlay: green
 published: true
 ---
 
