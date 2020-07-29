@@ -5,8 +5,8 @@ tags:
   - new & old vibes
   - made with jekyll
   - and githubpages
-hero: 'https://source.unsplash.com/j-0WQPfI3RU'
-overlay: red
+hero: 'https://source.unsplash.com/user/jmzx/800x600'
+overlay: orange
 published: true
 
 ---

@@ -5,7 +5,7 @@ tags:
   - vibes
   - jekyll
   - githubpages
-hero: 'https://source.unsplash.com/collections/11528826/jamaica'
+hero: 'https://source.unsplash.com/user/jmzx/800x600'
 overlay: red
 published: true
 ---
