@@ -5,7 +5,7 @@ tags:
   - jekyll
   - dactl
   - howto
-hero: 'https://source.unsplash.com/user/jmzx/800x600'
+hero: 'https://source.unsplash.com/user/jmzx'
 overlay: red
 published: true
 ---

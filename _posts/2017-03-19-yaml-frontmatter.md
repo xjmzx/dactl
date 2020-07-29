@@ -5,7 +5,7 @@ tags:
   - jekyll
   - jmzx
   - yaml
-hero: 'https://source.unsplash.com/user/jmzx/800x600'
+hero: 'https://source.unsplash.com/collection/11538755'
 overlay: orange
 published: true
 ---

@@ -4,7 +4,7 @@ title: 'Tag wha'
 tags:
   - jmzx
   - howto
-hero: 'https://source.unsplash.com/user/jmzx/800x600'
+hero: 'https://source.unsplash.com/user/jmzx'
 overlay: green
 published: true
 ---

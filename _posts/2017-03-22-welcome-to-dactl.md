@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "the interplanatory detuned rootalogical state"
+title:  "adsfjkhsddsfjhdf"
 tags:
   - new & old vibes
   - made with jekyll
   - and githubpages
-hero: 'https://source.unsplash.com/user/jmzx/800x600'
+hero: 'https://source.unsplash.com/user/jmzx'
 overlay: orange
 published: true
 
