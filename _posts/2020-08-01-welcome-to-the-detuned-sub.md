@@ -14,3 +14,6 @@ Tracklisting [^1].
 https://www.soundcloud.com/jmzx/dealin-minds-preview
 link: https://www.jmzx.uk
 [Everything]: by jmzx.uk
+If you want to embed images, this is how you do it:
+
+![Image of X](https://xjmzx.github.com/images/x.jpg)
