@@ -3,8 +3,6 @@ layout: post
 title:  "the detuned subbass of suburbia"
 tags:
   - vibes
-  - jekyll
-  - githubpages
   - jmzx
 hero: 'https://source.unsplash.com/user/jmzx'
 published: true
