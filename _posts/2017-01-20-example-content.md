@@ -7,7 +7,7 @@ tags:
 hero: 'https://source.unsplash.com/collection/11539493'
 published: true
 ---
-
+```markdown
 Screwed `**bold**`things. **he said**
 {: .lead}
 no.
@@ -16,8 +16,6 @@ no.
 
 Etiam `*To italicize text*`consectetur.
 {: .notice}
-## Inline HTML elements
-
 HTML
 [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
 
@@ -26,23 +24,12 @@ HTML
 - ~~Deleted~~ text should use `~~deleted~~` `<ins>`.
 - Superscript <sup>text</sup> uses `<sup>` `<sub>`[^1].
 
-## Heading
-Veros.
 ## Code
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
 
 ## Images
 Quisque.
 ![1200x700](https://unsplash.com/collections/11528826/jamaica"){:.oversize}
 ![800x400](https://unsplash.com/collections/11528826/jamaica"){:.lead}
 ![400x200](https://unsplash.com/collections/11528826/jamaica")
-
-## Math
-
-[^1]: You can insert footnote marks using `[^1]`, `[^2]`, etc this: `[^1]: You can also insert footnote marks...`
-
-[^2]: Nullam id leo.
-
-*[HTML]: HyperText Markup Language
-*[CSS]: Cascading Style Sheets
-*[JS]: JavaScript
+```

@@ -10,6 +10,7 @@ tags:
 hero: 'https://source.unsplash.com/collection/11528826'
 published: true
 ---
+```markdown
 jmzx & swayz 01/07/2019
 {: .lead}
 ## Dealin' Minds
@@ -20,3 +21,5 @@ Sea otters [smoke on it](https://www.natural-conscious-states.bandcamp.com/relea
 Sea otters [trust](https://www.natural-conscious-states.bandcamp.com/releases) believe me.
 ~~~
 Like this.
+<!–-break-–>
+```

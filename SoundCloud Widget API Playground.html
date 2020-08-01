@@ -1,0 +1,250 @@
+<!DOCTYPE html><html><head><title>SoundCloud Widget API Playground</title></head><style type="text/css">body, html, dl, dd { margin: 0; padding: 0;}
+
+  body, html {
+    font-family: "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+    color: #343434;
+    background: #f7f7f7;
+  }
+
+  body {
+    margin: 20px;
+  }
+
+  iframe {
+    display:block;
+    border:0;
+    margin-bottom: 20px;
+  }
+
+  h1 {
+    font-weight: normal;
+    text-align: center;
+  }
+
+  dl, dt {
+    margin-bottom: 15px;
+  }
+
+  dt span {
+    font-size: 0.9em;
+    color: #666;
+  }
+
+  dd {
+    display: inline-block;
+    font-size: 12px;
+    margin-bottom: 5px;
+  }
+
+  dd label {
+    margin-right: 10px;
+  }
+
+  button {
+    background: #e9e9e9;
+    cursor: pointer;
+    border: 1px solid #ddd;
+    padding: 2px 13px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    margin: 0;
+    cursor: pointer;
+  }
+
+  button input {
+    border: 1px solid #ddd;
+    text-align: center;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    margin: 0 -11px 0 5px;
+    padding: 2px;
+  }
+
+  .widget-container {
+    padding: 15px;
+    border: 1px solid #F5F5F5;
+    border-radius: 10px;
+  }
+
+  .left {
+    width: 500px;
+    float: left;
+    margin-right: -500px;
+  }
+
+  .right {
+    margin: 0 0 0 520px;
+  }
+
+  textarea {
+    display: block;
+    height: 314px;
+    width: 100%;
+    padding: 3px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: "Monaco", "Courier New", monospace;
+    font-size: 12px;
+    white-space: nowrap;
+    color: #FF9D00;
+    background-color: #002240;
+    border: transparent;
+    overflow-x: hidden;
+    overflow-y: auto;
+  }
+
+  .inputContainer {
+    margin: 20px 0 0 0;
+    overflow: hidden;
+  }
+
+  .urlInput {
+    background: white;
+    border: 1px solid #cecece;
+    font-family: "Monaco", "Courier New", monospace;
+    font-size: 12px;
+    padding: 5px;
+    margin: 0 10px 0 0;
+    width: 380px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    float: left;
+  }
+
+  .reload {
+    width: 110px;
+    display: block;
+    float: left;
+  }
+
+  .widgetOptions,
+  .widgetLinks {
+    list-style: none;
+    margin: 5px 0 5px 0;
+    padding: 0;
+    overflow: hidden;
+    font-size: 12px;
+  }
+
+  .widgetOptions label {
+    cursor: pointer;
+  }
+  .widgetOptions input[type=text] {
+    width: 25px;
+  }
+  .widgetOptions input {
+    margin: 0 5px 3px 0;
+    display: inline-block;
+  }
+
+  .widgetOptions li {
+    float: left;
+    margin: 0 10px 5px 0;
+  }
+  .widgetLinks li {
+    display: block;
+    float: none;
+    margin: 0 0 10px 0;
+  }
+  .widgetLinks a {
+    text-decoration: none;
+    border-bottom: 1px dotted;
+  }</style><body><h1>SoundCloud Widget API Playground</h1><div class="widget-container"><div class="left"><iframe class="iframe" width="100%" height="465" scrolling="no" frameborder="no"></iframe><div class="inputContainer"><input class="urlInput" placeholder="Enter SoundCloud URL of the track/set/user" type="text"> <button class="reload">Reload widget</button></div><ul class="widgetOptions"><li><input type="checkbox" id="auto_play"><label for="auto_play">auto_play</label></li><li><input type="checkbox" checked="checked" id="buying"><label for="buying">buying</label></li><li><input type="checkbox" checked="checked" id="liking"><label for="liking">liking</label></li><li><input type="checkbox" checked="checked" id="download"><label for="download">download</label></li><li><input type="checkbox" checked="checked" id="sharing"><label for="sharing">sharing</label></li><li><input type="checkbox" checked="checked" id="show_artwork"><label for="show_artwork">show_artwork</label></li><li><input type="checkbox" checked="checked" id="show_comments"><label for="show_comments">show_comments</label></li><li><input type="checkbox" checked="checked" id="show_playcount"><label for="show_playcount">show_playcount</label></li><li><input type="checkbox" checked="checked" id="show_user"><label for="show_user">show_user</label></li><li><input type="checkbox" id="hide_related"><label for="hide_related">hide_related</label></li><li><input type="checkbox" checked="checked" id="visual"><label for="visual">visual</label></li><li><input type="text" value="0" id="start_track"><label for="start_track">start_track</label></li></ul><ul class="widgetLinks"><li><a href="https://api.soundcloud.com/tracks/757682125">Sound widget</a></li><li><a href="https://api.soundcloud.com/tracks/118596500">Sound widget by Pro Unlim User</a></li><li><a href="https://api.soundcloud.com/users/807541">User widget</a></li><li><a href="https://api.soundcloud.com/users/1539950/foo">404 Error</a></li><li><a href="https://api.soundcloud.com/users/1539950/favorites">Favorite sounds widget</a></li><li><a href="https://api.soundcloud.com/playlists/1595551">Playlist widget</a></li></ul></div><div class="right"><dl class="actionButtons"><dd><button class="play">Play</button></dd><dd><button class="pause">Pause</button></dd><dd><button class="toggle">Toggle</button></dd><dd><button class="prev">Prev</button></dd><dd><button class="next">Next</button></dd></dl><dl class="actionButtons"><dd><button class="seekTo">Seek <input type="text" value="30000" size="10" maxlength="10"></button></dd><dd><button class="setVolume">Volume <input type="text" value="50" size="3" maxlength="3"></button></dd><dd><button class="skip">Skip to <input type="text" value="5" size="3" maxlength="2"></button></dd></dl><dl class="getterButtons"><dd><button class="getVolume" caption="volume value is">Get Volume</button></dd><dd><button class="getDuration" caption="sound duration is">Get Sound Duration</button></dd><dd><button class="getPosition" caption="sound position is">Get Sound Position</button></dd><dd><button class="getSounds" caption="sounds:">Get Sounds</button></dd><dd><button class="getCurrentSound" caption="current sound:">Get Current Sound</button></dd><dd><button class="getCurrentSoundIndex" caption="current sound index:">Get Current Sound Index</button></dd><dd><button class="isPaused" caption="is widget paused:">Is Widget Paused</button></dd></dl><textarea class="console" wrap="off"></textarea></div></div><script type="text/javascript" src="api.js"></script><script type="text/javascript">(function(){
+
+      var host2widgetBaseUrl = {
+        "wt.soundcloud.test" : "wt.soundcloud.test:9200/",
+        "wt.soundcloud.com" : "wt.soundcloud.com/player/",
+        "w.soundcloud.com"  : "w.soundcloud.com/player/"
+      };
+
+      var consoleBox = document.querySelector('.console');
+
+      var forEach = Array.prototype.forEach;
+
+      function addEvent(element, eventName, callback) {
+        if (element.addEventListener) {
+          element.addEventListener(eventName, callback, false);
+        } else {
+          element.attachEvent(eventName, callback, false);
+        }
+      }
+
+      function clearConsole() {
+        consoleBox.value = '';
+      }
+
+      function updateConsole(value) {
+        consoleBox.value = value +"\n" + consoleBox.value;
+      }
+
+      var widgetUrl = "https://api.soundcloud.com/users/1539950/favorites";
+
+      consoleBox.value = "Loading...";
+
+      var iframe = document.querySelector('.iframe');
+      iframe.src = location.protocol + "//" + host2widgetBaseUrl[location.hostname] + "?url=" + widgetUrl;
+      var widget = SC.Widget(iframe);
+
+      var eventKey, eventName;
+      for (eventKey in SC.Widget.Events) {
+        (function(eventName, eventKey) {
+          eventName = SC.Widget.Events[eventKey];
+          widget.bind(eventName, function(eventData) {
+            updateConsole("SC.Widget.Events." + eventKey +  " " + JSON.stringify(eventData || {}));
+          });
+        }(eventName, eventKey))
+      }
+
+      var actionButtons = document.querySelectorAll('.actionButtons button');
+      forEach.call(actionButtons, function(button) {
+        addEvent(button, 'click', function(e) {
+          if (e.target !== this) {
+            e.stopPropagation();
+            return false;
+          }
+          var input = this.querySelector('input');
+          var value = input && input.value;
+          widget[this.className](value);
+        });
+      });
+
+      var getterButtons = document.querySelectorAll('.getterButtons button');
+      forEach.call(getterButtons, function(button){
+        addEvent(button, 'click', function(e) {
+          widget[this.className](function(value){
+            updateConsole(button.getAttribute('caption') + " " + JSON.stringify(value));
+          });
+        });
+      });
+
+      var widgetLinks = document.querySelectorAll('.widgetLinks a');
+      var widgetUrlInput = document.querySelector('.urlInput');
+      forEach.call(widgetLinks, function(link) {
+        addEvent(link, 'click', function(e) {
+          widgetUrlInput.value = this.getAttribute("href");
+          e.preventDefault();
+        });
+      });
+
+      var reloadButton = document.querySelector('.reload');
+      addEvent(reloadButton, 'click', function() {
+        clearConsole();
+        var widgetOptions = getWidgetOptions();
+        widgetOptions.callback = function(){
+          updateConsole('Widget is reloaded.')
+        };
+        widget.load(widgetUrlInput.value, widgetOptions);
+      });
+
+      function getWidgetOptions() {
+        var optionInputs = document.querySelectorAll('.widgetOptions input');
+        var widgetOptions = {};
+        forEach.call(optionInputs, function(option){
+          widgetOptions[option.id] = option.type === 'text' ? option.value : option.checked;
+        });
+        return widgetOptions;
+      }
+
+    }());</script></body></html>
