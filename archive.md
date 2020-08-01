@@ -1,6 +1,6 @@
 ---
 layout: page
-title: archives 2.02.8
+title: .arc/2.02
 permalink: /archive/
 weight: 5
 sitemap:
