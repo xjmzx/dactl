@@ -7,5 +7,5 @@ tags:
 hero: 'https://source.unsplash.com/hcmX4pgVhfQ'
 published: true
 ---
-## Natural Conscious States
 ![i](https://xjmzx.github.io/uploads/0016634408_10.jpg)
+## Natural Conscious States
