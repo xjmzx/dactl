@@ -9,8 +9,9 @@ published: true
 ---
 # media links
 
-[github pages]: https://xjmzx.github.io
-[jekyll]: http://jekyllrb.com
-[unsplash]: https://source.unsplash.com/user/jmzx
-[soundcloud]: http://soundloud.com/jmzx
+[dub]: https://xjmzx.github.io
+[dnb]: http://www.soundcloud.com
+[sub]: https://source.unsplash.com/user/jmzx
+[vibes]: http://soundloud.com/vibes
+[optics]: http://www.jmzx.uk
 ---
