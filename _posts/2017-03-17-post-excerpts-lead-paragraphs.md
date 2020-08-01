@@ -1,20 +1,18 @@
 ---
 layout: post
-title: Post from, well obviously ot Pluto. wha?
+title: Post.
 tags:
   - jmzx
   - howto
 hero: 'https://source.unsplash.com/collection/11539485'
 published: true
 ---
-By default, I like you - it's really easy. Read on for more info.
+01/08/2020
 {: .lead}
-## Post excerpts
-First, let's see how this and the above paragraph looks like in markdown:
+## Post
+jmzx
 ```markdown
-Really easy. Read on for more info.
-{: .lead}
-## Post excerpts
-First, let's see how this and the above paragraph looks like in markdown:
+www.soundcloud/jmzx
+Really easy.
 ```
 As you can see this post.
