@@ -10,10 +10,7 @@ published: true
 01/08/2020
 {: .lead}
 ## Post
-jmzx
-```markdown
 jmzx on [Soundcloud](https://www.soundcloud.com/jmzx/dealin-minds-preview)
 soundcloud
 {: .lead}
 [^1]: soundcloud
-```
