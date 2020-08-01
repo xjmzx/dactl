@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 字
+title: zi
 tags:
   - jmzx
   - how

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Exhale
+title: HyperText
 tags:
-  - exhale
+  - music
   - jmzx
 hero: 'https://source.unsplash.com/collection/11539493'
 published: true

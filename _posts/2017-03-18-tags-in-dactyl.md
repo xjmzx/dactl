@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tags'
+title: tags
 tags:
   - jmzx
   - tags
