@@ -9,8 +9,8 @@ published: true
 ---
 # media links
 
-- this site is hosted on [github pages]: https://xjmzx.github.io
-- this site is built using [jekyll]: http://jekyllrb.com
-- images are hosted at [unsplash]: https://source.unsplash.com/user/jmzx
-- audio is on [soundcloud]: http://soundloud.com/jmzx
+[github pages]: https://xjmzx.github.io
+[jekyll]: http://jekyllrb.com
+[unsplash]: https://source.unsplash.com/user/jmzx
+[soundcloud]: http://soundloud.com/jmzx
 ---

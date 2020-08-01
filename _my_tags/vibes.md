@@ -1,4 +1,4 @@
 ---
 slug: vibes
-name: Vibes
+name: vibes
 ---
