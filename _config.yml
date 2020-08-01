@@ -5,9 +5,9 @@ url                          : "http://<username>.github.io" # the base hostname
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : jmzx.uk
+  title                      : jmzxuk
   description                  : >
-                               this is jmzx.uk!
+                               www.jmzx.uk!
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
