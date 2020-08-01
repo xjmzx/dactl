@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Tag wha'
+title: 'Tags'
 tags:
   - jmzx
-  - howto
+  - tags
 hero: 'https://source.unsplash.com/user/jmzx'
 published: true
 ---
