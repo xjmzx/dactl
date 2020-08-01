@@ -12,8 +12,6 @@ Tags are built.
 {: .lead}
 ## How to add a new tag
 Please make sure to do the following for each tag:
-<!–-break-–>
 ## Optional
 You can configure them.
-<!–-break-–>
 ```

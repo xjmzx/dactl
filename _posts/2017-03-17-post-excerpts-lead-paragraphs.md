@@ -11,12 +11,10 @@ By default, I like you - it's really easy. Read on for more info.
 {: .lead}
 ## Post excerpts
 First, let's see how this and the above paragraph looks like in markdown:
-<!–-break-–>
 ```markdown
 Really easy. Read on for more info.
 {: .lead}
 ## Post excerpts
 First, let's see how this and the above paragraph looks like in markdown:
-<!–-break-–>
 ```
 As you can see this post.
