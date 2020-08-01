@@ -4,7 +4,7 @@ title: the detuned sub.
 tags:
   - vibes
   - jmzx
-hero: 'https://source.unsplash.com/user/jmzx'
+hero: 'https://unsplash.com/photos/hcmX4pgVhfQ'
 published: true
 ---
 ## Natural Conscious States
