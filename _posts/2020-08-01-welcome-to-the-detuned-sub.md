@@ -16,4 +16,4 @@ link: https://www.jmzx.uk
 [Everything]: by jmzx.uk
 If you want to embed images, this is how you do it:
 
-![Image of X](https://xjmzx.github.com/images/x.jpg)
+![Image of X](https://github.com/xjmzx/images/x.jpg)
