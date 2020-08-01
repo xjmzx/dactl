@@ -10,7 +10,7 @@ published: true
 ## Natural Conscious States
 
 
-[cats](cats.md)
+[cats](2019-01-01-cats.md)
 
 ![i](https://xjmzx.github.com/images/me.png)
 ![i](https://octodex.github.com/images/yaktocat.png)
