@@ -1,7 +1,7 @@
 # Base blog settings
 baseurl                      : "" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
-url                          : "http://<username>.github.io" # the base hostname & protocol for your site
+url                          : "http://xjmzx.github.io" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
@@ -26,7 +26,7 @@ blog:
 
 # Author info
 author:
-  fullname                  : James Wright
+  fullname                  : jmzx
   rss                       : true # generate RSS feed and show it's icon in header
   mail                      : tjmzx@protonmail.ch # change to your e-mail address
   twitter                   : jmzxuk
