@@ -17,8 +17,8 @@ jmzx & swayz 01/07/2019
 Here's a link to [NCS](2019-07-01-natural-conscious-states.md).  
 <!–-break-–>
 ~~~
-Sea otters [smoke on it](https://www.natural-conscious-states.bandcamp.com/releases)  we got riddim.
-Sea otters [trust](https://www.natural-conscious-states.bandcamp.com/releases) believe me.
+jmzx [smoke on it](https://www.natural-conscious-states.bandcamp.com/releases)  we got riddim.
+jmzx [trust](https://www.natural-conscious-states.bandcamp.com/releases) believe me.
 ~~~
 Like this.
 <!–-break-–>

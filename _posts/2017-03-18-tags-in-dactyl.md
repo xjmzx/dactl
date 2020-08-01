@@ -7,7 +7,6 @@ tags:
 hero: 'https://source.unsplash.com/user/jmzx'
 published: true
 ---
-
 Tags are built.
 ```markdown
 {: .lead}
@@ -15,6 +14,6 @@ Tags are built.
 Please make sure to do the following for each tag:
 <!–-break-–>
 ## Optional
-You can configure the Archive page to show 'Tag box' underneath the search box - this box will contain all of your blog's tags with links to them.
+You can configure them.
 <!–-break-–>
 ```
