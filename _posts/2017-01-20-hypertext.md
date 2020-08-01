@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HyperText
+title: hyperText.
 tags:
   - music
   - jmzx

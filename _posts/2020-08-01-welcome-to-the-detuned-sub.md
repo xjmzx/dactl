@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  the detuned sub
+title: the detuned sub.
 tags:
   - vibes
   - jmzx
 hero: 'https://source.unsplash.com/user/jmzx'
 published: true
 ---
-
 ## Natural Conscious States
 This is a bandcamp release.
 link: natural-conscious-states.bandcamp.com/releases

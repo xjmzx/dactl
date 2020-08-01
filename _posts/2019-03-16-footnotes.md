@@ -1,6 +1,6 @@
 ---
 layout: post
-title: zi
+title: footnotes
 tags:
   - jmzx
   - tings
