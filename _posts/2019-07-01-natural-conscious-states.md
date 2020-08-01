@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Notice!'
+title: 'Notice! '
 tags:
   - jmzx
   - xjmz
