@@ -1,6 +1,6 @@
 ---
 layout: post
-title: notes
+title: everyday living
 tags:
   - jmzx
   - tings
