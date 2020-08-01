@@ -3,7 +3,7 @@ layout: post
 title: zi
 tags:
   - jmzx
-  - how
+  - tings
 hero: 'https://source.unsplash.com/user/jmzx'
 published: true
 ---
