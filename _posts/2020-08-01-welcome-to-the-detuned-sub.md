@@ -11,10 +11,9 @@ hero: 'https://user-images.githubusercontent.com/1854925/89131333-3a393780-d536-
 overlay: white
 published: true
 ---
-## JMZX // detuned suburban sounds
+## N _ C _ S detuned suburban sounds
 <!–-break-–>
 ![i](https://xjmzx.github.io/uploads/0016634408_10.jpg)
 <!–-break-–>
-Remix/collaboration project ## Natural Conscious States,
-released on Bandcamp 2019.
+# released on Bandcamp 2019
 <!–-break-–>

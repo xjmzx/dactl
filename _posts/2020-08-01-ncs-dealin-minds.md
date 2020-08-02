@@ -16,8 +16,8 @@ published: true
 ---
 # Natural Conscious States 'Dealin' Minds' 01.01.2019
 <!–-break-–>
-# [bandcamp](https://www.natural-conscious-states.bandcamp.com/releases)
-# [soundcloud](https://www.soundcloud.com/jmzx/dealin-minds-preview)
+[bandcamp](https://www.natural-conscious-states.bandcamp.com/releases)
+[soundcloud](https://www.soundcloud.com/jmzx/dealin-minds-preview)
 <!–-break-–>
 ![o](https://xjmzx.github.io/uploads/a2270818088_10.jpg)
 <!–-break-–>
