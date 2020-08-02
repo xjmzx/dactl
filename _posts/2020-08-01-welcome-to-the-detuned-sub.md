@@ -1,10 +1,11 @@
 ---
 layout: post
-title: drop b flat
+title: dropBflat
 tags:
   - vibes
   - jmzx
-hero: 'https://www.jmzx.uk/uploads/89110436.png'
+  - music
+hero: 'https://user-images.githubusercontent.com/1854925/89130637-aa44bf00-d530-11ea-8082-bb6c0116a57e.png'
 overlay: orange
 published: true
 ---
