@@ -11,7 +11,7 @@ hero: 'https://user-images.githubusercontent.com/1854925/89131333-3a393780-d536-
 overlay: white
 published: true
 ---
-## n _ _ c _ _ s
+## n _ c _ s
 detuned suburban sounds
 <!–-break-–>
 ![i](https://xjmzx.github.io/uploads/0016634408_10.jpg)
