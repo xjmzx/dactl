@@ -11,7 +11,6 @@ overlay: orange
 published: true
 ---
 # Natural Conscious States 'Dealin' Minds' 01.01.2019
-<!–-break-–>
 [bandcamp](https://www.natural-conscious-states.bandcamp.com/releases)
 [soundcloud](https://www.soundcloud.com/jmzx/dealin-minds-preview)
 <!–-break-–>
@@ -22,11 +21,12 @@ published: true
 ![ooo](https://xjmzx.github.io/uploads/0016634408_10.jpg)
 <article>
 	<div class="cont">
-		<h3>clip1</h3>
-    yah jazbites. released
+		<h3>yah</h3>
 		<time> JULY 01, 2019</time>
 	</div>
 	<audio class="audio" controls="controls">
 		<source type="audio/mpeg" src="https://www.jmzx.uk/uploads/audio/Dealin Minds_preview.mp3?_=1">
 	</audio>
 </article>
+<!–-break-–>
+![SC](https://wwwjmzx.uk/uploads/sc@2x.png)
