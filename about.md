@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 。
+title: 。。。。。。。oO
 permalink: /about/
 ---
 <div class="page" markdown="1">

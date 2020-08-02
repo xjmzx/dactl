@@ -1,6 +1,6 @@
 ---
 layout: page
-title: inner/2.02
+title: inner_2.02
 permalink: /archive2/
 ---
 <div class="kage" markdown="1">

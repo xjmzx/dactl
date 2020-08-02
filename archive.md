@@ -1,6 +1,6 @@
 ---
 layout: page
-title: arc/2.02
+title: arc_2.02
 permalink: /archive/
 ---
 <div class="page" markdown="1">
