@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  n _____ c _____ s Dealin' Minds
+title: n _ c _ s dealin' minds
 tags:
   - jmzx
   - swayz
