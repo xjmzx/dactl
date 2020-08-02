@@ -1,4 +1,4 @@
----
+![i](https://xjmzx.github.io/uploads/x.jpg)---
 layout: post
 title: jmzx ··· inner days
 tags:
@@ -20,3 +20,4 @@ published: true
 		<source type="audio/mpeg" src="https://www.jmzx.uk/uploads/audio/A-102-In-a-day.mp3?_=1">
 	</audio>
 </article>
+![i](https://xjmzx.github.io/uploads/x.jpg)
