@@ -1,7 +1,7 @@
 ---
 layout: page
 title: inadayz
-permalink: /in a dayz/
+permalink: /hive/
 weight: 5
 sitemap:
   priority: 0.9
