@@ -18,6 +18,6 @@ published: true
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
-## I would *never* do that to you.
+## I would *never*.
 
 </div>
