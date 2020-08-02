@@ -1,4 +1,4 @@
 ---
-slug: vibes'nting
+slug: vibesnting
 name: vibes'nting
 ---
