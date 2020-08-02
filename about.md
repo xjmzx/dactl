@@ -2,8 +2,9 @@
 layout: page
 title: 。
 permalink: /about/
-published: true
 ---
+
+
 
 <div class="page" markdown="1">
 
@@ -18,6 +19,6 @@ published: true
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
-## I would *never*.
+## I'd *never*.
 
 </div>

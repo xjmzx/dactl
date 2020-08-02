@@ -5,9 +5,9 @@ permalink: /archive2/
 weight: 5
 sitemap:
 priority: 0.9
-published: true
 ---
 <div class="page" markdown="1">
+
 {% capture page_subtitle %}
 <img
     class="me3"
@@ -16,21 +16,28 @@ published: true
     srcset="{{ site.author.photo2x | relative_url }} 2x"
 />
 {% endcapture %}
+
 {% include page/title.html title=page.title subtitle=page_subtitle %}
-## I would *never*.
+
+## I'd *o'*.
+
 </div>
 
 <div class="page">
+
 {% capture page_subtitle %}
   {% include page/searchbox.html %}
 {% endcapture %}
+
 {% include page/title.html title=page.title subtitle=page_subtitle %}
+
     {% for post in site.posts %}
     {% assign category = site.my_categories | where: "slug", post.category %}
     {% assign category = category[0] %}
       {% if category %}
         {% capture category_content %}<a class="label" href="{{ category.url }}">{{ category.name }}</a>{% endcapture %}
       {% endif %}
+
   	{% capture month %}{{ post.date | date: '%m%Y' }}{% endcapture %}
   	{% capture nmonth %}{{ post.next.date | date: '%m%Y' }}{% endcapture %}
   		{% if month != nmonth %}
