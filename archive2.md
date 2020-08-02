@@ -1,7 +1,7 @@
 ---
 layout: page
 title: inner/2.02
-permalink: /hive/
+permalink: /archive2/
 weight: 5
 sitemap:
 priority: 0.9
