@@ -7,6 +7,7 @@ tags:
 hero: 'https://source.unsplash.com/user/jmzx'
 published: true
 ---
+Everyday Livin.
 jmzx on [Soundcloud](https://www.soundcloud.com/jmzx/dealin-minds-preview)
 soundcloud
 {: .lead}
