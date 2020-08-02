@@ -1,6 +1,6 @@
 ---
 layout: post
-title: drop_B flat
+title: ···drop·b·flat···
 tags:
   - vibes
   - jmzx
