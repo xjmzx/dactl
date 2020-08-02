@@ -1,10 +1,16 @@
 ---
 layout: page
-title: .h/2.02
-permalink: /hive/
+title: inadayz
+permalink: /in a dayz/
 weight: 5
 sitemap:
   priority: 0.9
+  tags:
+    - vibes
+    - ting
+    - jmzx
+  hero: 'https://source.unsplash.com/user/jmzx'
+  published: true
 ---
 
 <div class="page">
