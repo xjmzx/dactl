@@ -4,13 +4,10 @@ title: inner/2.02
 permalink: /hive/
 weight: 5
 sitemap:
-  priority: 0.9
+priority: 0.9
+published: true
 ---
-
-
-  hero: 'https://source.unsplash.com/user/jmzx'
-  published: true
----
+hero: 'https://source.unsplash.com/user/jmzx'
 
 <div class="page">
 
