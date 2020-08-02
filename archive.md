@@ -3,8 +3,7 @@ layout: page
 title: arc_2.02
 permalink: /archive/
 ---
-<div class="page" markdown="1">
-
+<div class="page">
 
 {% capture page_subtitle %}
   {% include page/searchbox.html %}
