@@ -10,8 +10,8 @@ overlay:
 published: true
 ---
 ## Tan Hauser gate, oh, Tann Huase gate, how the autobots fell..
-: <!–-break-–>
+<!–-break-–>
 ![i](https://xjmzx.github.io/uploads/0016634408_10.jpg)
-: <!–-break-–>
+<!–-break-–>
 ## Natural Conscious States
-: <!–-break-–>
+<!–-break-–>
