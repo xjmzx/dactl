@@ -6,7 +6,7 @@ weight: 5
 sitemap:
 priority: 0.9
 ---
-<div class="page" markdown="1">
+<div class="kage" markdown="1">
 
 {% capture page_subtitle %}
 <img
@@ -23,7 +23,7 @@ priority: 0.9
 
 </div>
 
-<div class="page">
+<div class="kage">
 
 {% capture page_subtitle %}
   {% include page/searchbox.html %}
