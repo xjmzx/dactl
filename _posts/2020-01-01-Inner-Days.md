@@ -1,6 +1,6 @@
 ---
 layout: post
-title: jmzx —————— inner days
+title: jmzx ··· inner days
 tags:
   - jmzx
   - xjmz

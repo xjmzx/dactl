@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ncs —————— dealin' minds
+title: ncs ··· dealin' minds
 tags:
   - jmzx
   - swayz
