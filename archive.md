@@ -8,7 +8,6 @@ sitemap:
 ---
 
 <div class="page" markdown="1">
-
 {% capture page_subtitle %}
 <img
     class="me3"
@@ -17,11 +16,8 @@ sitemap:
     srcset="{{ site.author.photo2x | relative_url }} 2x"
 />
 {% endcapture %}
-
 {% include page/title.html title=page.title subtitle=page_subtitle %}
-
 ## I would *never*.
-
 </div>
 
 
