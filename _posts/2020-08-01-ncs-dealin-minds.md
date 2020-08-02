@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dealin' Minds
+title: Dealin' Minds [preview]
 tags:
   - releases
   - jmzx

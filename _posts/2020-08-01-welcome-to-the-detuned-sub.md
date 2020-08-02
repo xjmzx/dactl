@@ -1,6 +1,6 @@
 ---
 layout: post
-title: the detuned sub.
+title: b
 tags:
   - vibes
   - jmzx
