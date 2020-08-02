@@ -1,6 +1,6 @@
 ---
 layout: post
-title: inner days
+title: Inner days
 tags:
   - jmzx
   - xjmz
@@ -9,11 +9,11 @@ overlay: red
 published: true
 ---
 ## soundcloud
-[soundcloud](https://www.soundcloud.com/jmzx/dealin-minds-preview)
-##yah jazbites. released
+[JMZ Inner Days on Soundcloud](https://www.soundcloud.com/jmzx/all-in-a-dayz)
+<!–-break-–>
 <article>
 	<div class="cont">
-		<h3>In a day</h3>
+		<h3>Listen to Inner Days</h3>
 		<time> JULY 01, 2019</time>
 	</div>
 	<audio class="audio" controls="controls">
