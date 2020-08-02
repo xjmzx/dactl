@@ -1,12 +1,12 @@
 ---
 layout: post
-title: dropB flat
+title: drop_B flat
 tags:
   - vibes
   - jmzx
   - music
   - sub
-  - ting
+  - tings
 hero: 'https://user-images.githubusercontent.com/1854925/89131333-3a393780-d536-11ea-840a-95f59ea1cc20.png'
 overlay: white
 published: true
