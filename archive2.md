@@ -2,9 +2,6 @@
 layout: page
 title: inner/2.02
 permalink: /archive2/
-weight: 5
-sitemap:
-priority: 0.9
 ---
 <div class="kage" markdown="1">
 
@@ -19,11 +16,9 @@ priority: 0.9
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
-## I'd *o'*.
-
 </div>
 
-<div class="kage">
+<div class="page">
 
 {% capture page_subtitle %}
   {% include page/searchbox.html %}
@@ -31,7 +26,7 @@ priority: 0.9
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
-    {% for post in site.kosts %}
+    {% for post in site.posts %}
     {% assign category = site.my_categories | where: "slug", post.category %}
     {% assign category = category[0] %}
       {% if category %}

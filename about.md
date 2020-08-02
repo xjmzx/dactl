@@ -3,9 +3,6 @@ layout: page
 title: 。
 permalink: /about/
 ---
-
-
-
 <div class="page" markdown="1">
 
 {% capture page_subtitle %}
@@ -18,7 +15,5 @@ permalink: /about/
 {% endcapture %}
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
-
-## I'd *never*.
 
 </div>

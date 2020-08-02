@@ -2,9 +2,6 @@
 layout: page
 title: arc/2.02
 permalink: /archive/
-weight: 5
-sitemap:
-priority: 0.9
 ---
 <div class="page" markdown="1">
 
@@ -18,8 +15,6 @@ priority: 0.9
 {% endcapture %}
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
-
-## I'd *o'*.
 
 </div>
 
