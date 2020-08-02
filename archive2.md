@@ -1,7 +1,7 @@
 ---
 layout: page
-title: inner_2.02
-permalink: /archive2/
+title: music
+permalink: /music/
 ---
 <div class="page" markdown="1">
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 。。。。。。。oO
-permalink: /about/
+title: 。。。。oO.jmz
+permalink: /jmz/
 ---
 <div class="page" markdown="1">
 

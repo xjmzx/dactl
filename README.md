@@ -1,6 +1,5 @@
 # jmzx
-dactl is a fast, modern and configurable [Jekyll](http://jekyllrb.com/) theme with some tricks up it's sleeve..
-
+[Jekyll](http://jekyllrb.com/) 
 ![light theme](uploads/screenshot_desktop_light.jpg)
 ![dark theme](uploads/screenshot_desktop_dark.jpg)
 
