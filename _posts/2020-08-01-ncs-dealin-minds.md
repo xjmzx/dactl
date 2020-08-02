@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dealin' Minds [preview]
+title: Dealin' Minds
 tags:
   - releases
   - jmzx
@@ -10,7 +10,7 @@ hero: 'https://source.unsplash.com/user/jmzx'
 overlay: orange
 published: true
 ---
-##Tan Hauser fell.
+##Preview
 <article>
 	<div class="cont">
 		<h3>clip1</h3>
@@ -18,6 +18,6 @@ published: true
 		<time> JULY 01, 2019</time>
 	</div>
 	<audio class="audio" controls="controls">
-		<source type="audio/mpeg" src="https://www.jmzx.uk/uploads/audio/02_Integration.m4a?_=1">
+		<source type="audio/mpeg" src="https://www.jmzx.uk/uploads/audio/Dealin Minds_preview.mp3?_=1">
 	</audio>
 </article>
