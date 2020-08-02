@@ -10,9 +10,10 @@ hero: 'https://source.unsplash.com/user/jmzx'
 overlay: orange
 published: true
 ---
-Natural Conscious States - Dealin Minds
-[bandcamp](https://www.natural-conscious-states.bandcamp.com/releases)
-[soundcloud](https://www.soundcloud.com/jmzx/dealin-minds-preview)
+## n·c·s
+detuned suburban sounds
+[Dealin Minds on Bandcamp](https://www.natural-conscious-states.bandcamp.com/releases)
+[Dealin Minds on soundcloud](https://www.soundcloud.com/jmzx/dealin-minds-preview)
 <!–-break-–>
 <article>
 	<div class="cont">
