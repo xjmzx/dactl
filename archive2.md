@@ -31,7 +31,7 @@ priority: 0.9
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
-    {% for post in site.posts %}
+    {% for post in site.kosts %}
     {% assign category = site.my_categories | where: "slug", post.category %}
     {% assign category = category[0] %}
       {% if category %}
