@@ -4,12 +4,8 @@ title: n _ c _ s dealin' minds
 tags:
   - jmzx
   - swayz
-  - bandcamp
-  - releases
-  - jmzx
-  - swayz
-  - ncs
-  - soundcloud
+  - preview
+  - NCS
 hero: 'https://source.unsplash.com/user/jmzx'
 overlay: orange
 published: true
