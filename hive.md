@@ -2,9 +2,6 @@
 layout: page
 title: inadayz
 permalink: /hive/
-weight: 5
-sitemap:
-  priority: 0.9
   tags:
     - vibes
     - ting
