@@ -1,11 +1,13 @@
 ---
 layout: page
-title: inadayz
+title: inner/2.02
 permalink: /hive/
-  tags:
-    - vibes
-    - ting
-    - jmzx
+weight: 5
+sitemap:
+  priority: 0.9
+---
+
+
   hero: 'https://source.unsplash.com/user/jmzx'
   published: true
 ---
