@@ -5,7 +5,7 @@ tags:
   - vibes
   - jmzx
   - music
-hero: 'https://user-images.githubusercontent.com/1854925/89130996-eb8a9e00-d533-11ea-972a-3943143e6341.png'
+hero: 'https://user-images.githubusercontent.com/1854925/89131333-3a393780-d536-11ea-840a-95f59ea1cc20.png'
 overlay:
 published: true
 ---
