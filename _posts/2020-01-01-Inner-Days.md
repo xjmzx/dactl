@@ -8,6 +8,10 @@ hero: 'https://source.unsplash.com/collection/11528826'
 overlay: red
 published: true
 ---
+<script src="http://www.jmzx.uk/src/js/wave.js"></script>
+<script>
+...do stuff...
+</script>
 
 [JMZ Inner Days on Soundcloud](https://www.soundcloud.com/jmzx/all-in-a-dayz)
 <!–-break-–>
