@@ -27,7 +27,7 @@ body {
   border-radius: 4px;
   user-select: none;
   -webkit-user-select: none;
-  background-color: #fff;
+  background-color: #222222;
 }
 .audio.green-audio-player .play-pause-btn {
   display: none;
@@ -143,9 +143,9 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #F8FFAE;
-  background: -webkit-linear-gradient(-65deg, #43C6AC, #F8FFAE);
-  background: linear-gradient(-65deg, #43C6AC, #F8FFAE);
+  background: #222;
+  background: -webkit-linear-gradient(-65deg, #222, #333);
+  background: linear-gradient(-65deg, #222, #333);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
