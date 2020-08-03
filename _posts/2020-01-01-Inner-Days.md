@@ -10,6 +10,7 @@ published: true
 ---
 <p>This is a paragraph</p>
 
+<div>
 <link rel="stylesheet" href="https://www.jmzx.uk/assets/css/main.min.css">
 <script src="https://www.jmzx.uk/assets/js/app.js"></script>
 
@@ -21,5 +22,6 @@ published: true
 document.addEventListener('DOMContentLoaded', function() {
   new GreenAudioPlayer('.example');
 });
+</div>
 
 ![sc@2x](https://user-images.githubusercontent.com/1854925/89157177-494fd200-d596-11ea-9549-4ea8c55098f4.png)
