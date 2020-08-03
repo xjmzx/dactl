@@ -8,6 +8,7 @@ hero: 'https://source.unsplash.com/collection/11528826'
 overlay: red
 published: true
 ---
+
 [JMZ Inner Days on Soundcloud](https://www.soundcloud.com/jmzx/all-in-a-dayz)
 <!–-break-–>
 <article>
