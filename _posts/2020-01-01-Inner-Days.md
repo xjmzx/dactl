@@ -8,7 +8,18 @@ hero: 'https://source.unsplash.com/collection/11528826'
 overlay: red
 published: true
 ---
-  <p>This is a paragraph</p>
-	<audio class="audio" controls="controls"><source type="audio/mpeg" src="https://www.jmzx.uk/uploads/audio/A-102-In-a-day.mp3?_=1">
+<p>This is a paragraph</p>
+
+<link rel="stylesheet" href="https://www.jmzx.uk/assets/css/main.min.css">
+<script src="https://www.jmzx.uk/assets/js/app.js"></script>
+
+<div class="example">
+  <audio crossorigin>
+    <source src="https://www.jmzx.uk/uploads/audio/A-102-In-a-day.mp3" type="audio/mpeg">
   </audio>
-  ![sc@2x](https://user-images.githubusercontent.com/1854925/89157177-494fd200-d596-11ea-9549-4ea8c55098f4.png)
+</div>
+document.addEventListener('DOMContentLoaded', function() {
+  new GreenAudioPlayer('.example');
+});
+
+![sc@2x](https://user-images.githubusercontent.com/1854925/89157177-494fd200-d596-11ea-9549-4ea8c55098f4.png)
