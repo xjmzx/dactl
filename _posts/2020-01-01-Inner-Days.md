@@ -1,4 +1,4 @@
-![i](https://xjmzx.github.io/uploads/x.jpg)---
+---
 layout: post
 title: jmzx ··· inner days
 tags:
@@ -8,7 +8,6 @@ hero: 'https://source.unsplash.com/collection/11528826'
 overlay: red
 published: true
 ---
-## soundcloud
 [JMZ Inner Days on Soundcloud](https://www.soundcloud.com/jmzx/all-in-a-dayz)
 <!–-break-–>
 <article>
