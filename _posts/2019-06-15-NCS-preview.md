@@ -10,7 +10,7 @@ hero: 'https://source.unsplash.com/user/jmzx'
 overlay: orange
 published: true
 ---
-## n·c·s
+## ncs
 detuned suburban sounds
 [Dealin Minds on Bandcamp](https://www.natural-conscious-states.bandcamp.com/releases)
 [Dealin Minds on soundcloud](https://www.soundcloud.com/jmzx/dealin-minds-preview)
@@ -19,7 +19,6 @@ detuned suburban sounds
 <article>
 	<div class="cont">
 		<h3>yah</h3>
-		<time> JULY 01, 2019</time>
 	</div>
 	<audio class="audio" controls="controls">
 		<source type="audio/mpeg" src="https://www.jmzx.uk/uploads/audio/Dealin Minds_preview.mp3?_=1">
