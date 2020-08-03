@@ -14,7 +14,7 @@ published: true
 detuned suburban sounds
 [Dealin Minds on Bandcamp](https://www.natural-conscious-states.bandcamp.com/releases)
 [Dealin Minds on soundcloud](https://www.soundcloud.com/jmzx/dealin-minds-preview)
-![sc@2x](https://user-images.githubusercontent.com/1854925/89157177-494fd200-d596-11ea-9549-4ea8c55098f4.png)
+![sc2](https://user-images.githubusercontent.com/1854925/89231232-1bf33a80-d60f-11ea-8071-36b1550183f7.png)
 <!–-break-–>
 <article>
 	<div class="cont">
