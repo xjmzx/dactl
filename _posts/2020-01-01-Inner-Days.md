@@ -12,7 +12,8 @@ published: true
 <div class="cont">
 <h3>JMZ Inner Days - A</h3>
 </div>
-<audio class="audio" controls="controls"><source type="audio/mpeg" src="https://www.jmzx.uk/uploads/audio/A-102-In-a-day.mp3?_=1">
+<audio class="audio" controls="controls">
+<source type="audio/mpeg" src="https://www.jmzx.uk/uploads/audio/A-102-In-a-day.mp3?_=1">
 </audio>
 
 [soundcloud jmzx inner days A](https://www.soundcloud.com/jmzx/dealin-minds-preview)
