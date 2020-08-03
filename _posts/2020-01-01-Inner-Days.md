@@ -9,14 +9,15 @@ overlay: red
 published: true
 ---
 <div class="cont">
-{  display: block;  width: 100%; }
 
 <audio controls id="audio-block-example">
+<img src="https://www.jmzx.uk/uploads/uploads/y.jpg" class="full-width">
+<audio controls class="full-width"> <source src="/wp-content/uploads/flamingos.ogg">
 <source src="https://www.jmzx.uk/uploads/audio/A-102-In-a-day.mp3">
 <source src="https://www.jmzx.uk/uploads/y.jpg"> You will see this text if native audio playback is not supported.
+Your browser doesn't support audio playback.
 </audio>
-
-<img src="/wp-content/uploads/very-large-flamingo.jpg" class="full-width"> <audio controls class="full-width"> <source src="/wp-content/uploads/flamingos.ogg"> <source src="/wp-content/uploads/flamingos.mp3"> Your browser doesn't support audio playback. </audio> <small>Audio by  <a href="https://soundcloud.com/beeldengeluid">Beeld en Geluid</a> [<a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>]
+audio on soundcloud <a href="https://soundcloud.com/jmzx/dealin-minds-preview"dealin-minds-preview</a>
 
 </div>
 
