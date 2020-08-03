@@ -9,14 +9,15 @@ overlay: red
 published: true
 ---
 <div class="cont">
-
+<h3>JMZ Inner Days - A</h3>
+</div>
 <audio controls id="audio-block-example">
 <img src="https://www.jmzx.uk/uploads/uploads/y.jpg" class="full-width">
 <audio controls class="full-width"> <source src="https://www.jmzx.uk/uploads/audio/A-102-In-a-day.mp3">
 </audio>
 audio on soundcloud <a href="https://soundcloud.com/jmzx/dealin-minds-preview"dealin-minds-preview</a>
 
-</div>
+
 
 <div class="cont">
 <h3>JMZ Inner Days - A</h3>
