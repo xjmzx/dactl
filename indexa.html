@@ -1,20 +1,19 @@
 ---
-layout: blog
-title: Blog
+layout: page
+title: ···i···
+permalink: /indexa/
 ---
-<audio src= 'https://www.jmzx.uk/uploads/audio/02_Dealin_Minds_(Onyxial_mix).m4a'></audio>
+<div class="page" markdown="1">
 
-<div class='player'>
-  <img src='https://giphy.com/gifs/jmzx-l3gksDon9CnGjGt30P'/>
-  <div class='info'>
-    <div class='name'>All of me</div>
-    <div class='singer'>John Legend</div>
-  </div>
-  <div class='btns'>
-    <div class="iconfont play-pause icon-play"></div>
-    <div class="iconfont next icon-next"></div>
-  </div>
-  <div class='progress'>
+{% capture page_subtitle %}
+<img
+    class="me"
+    alt="{{ author.name }}"
+    src="{{ site.author.photo | relative_url }}"
+    srcset="{{ site.author.photo2x | relative_url }} 2x"
+/>
+{% endcapture %}
 
-  </div>
+{% include page/title.html title=page.title subtitle=page_subtitle %}
+
 </div>
