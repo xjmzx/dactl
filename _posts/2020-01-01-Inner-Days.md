@@ -12,10 +12,7 @@ published: true
 
 <audio controls id="audio-block-example">
 <img src="https://www.jmzx.uk/uploads/uploads/y.jpg" class="full-width">
-<audio controls class="full-width"> <source src="/wp-content/uploads/flamingos.ogg">
-<source src="https://www.jmzx.uk/uploads/audio/A-102-In-a-day.mp3">
-<source src="https://www.jmzx.uk/uploads/y.jpg"> You will see this text if native audio playback is not supported.
-Your browser doesn't support audio playback.
+<audio controls class="full-width"> <source src="https://www.jmzx.uk/uploads/audio/A-102-In-a-day.mp3">
 </audio>
 audio on soundcloud <a href="https://soundcloud.com/jmzx/dealin-minds-preview"dealin-minds-preview</a>
 
