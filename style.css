@@ -27,7 +27,7 @@ body {
   border-radius: 4px;
   user-select: none;
   -webkit-user-select: none;
-  background-color: #222222;
+  background-color: #222;
 }
 .audio.green-audio-player .play-pause-btn {
   display: none;
@@ -144,8 +144,8 @@ body {
   justify-content: center;
   align-items: center;
   background: #222;
-  background: -webkit-linear-gradient(-65deg, #222, #333);
-  background: linear-gradient(-65deg, #222, #333);
+  background: -webkit-linear-gradient(-45deg, #222, #222);
+  background: linear-gradient(-45deg, #222, #222);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
