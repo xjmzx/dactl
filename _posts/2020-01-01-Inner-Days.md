@@ -8,9 +8,6 @@ hero: 'https://source.unsplash.com/collection/11528826'
 overlay: red
 published: true
 ---
-<p>This is a paragraph</p>
-
-    <article>
     	<div class="cont">
     		<h3>JMZ Inner Days - A</h3>
     	</div>
@@ -29,7 +26,6 @@ published: true
     	<audio class="audio" controls="controls">
     		<source type="audio/mpeg" src="https://www.jmzx.uk/uploads/audio/B-In-a-dayz.mp3?_=1">
     	</audio>
-    </article>
 
     [soundcloud jmzx inner days B](https://www.soundcloud.com/jmzx/dealin-minds-preview)
     ![sc@2x](https://user-images.githubusercontent.com/1854925/89157177-494fd200-d596-11ea-9549-4ea8c55098f4.png)
