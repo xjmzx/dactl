@@ -43,7 +43,7 @@ body {
 }
 .audio.green-audio-player .slider {
   flex-grow: 1;
-  background-color: #D8D8D8;
+  background-color: #FF0000;
   cursor: pointer;
   position: relative;
 }
@@ -56,8 +56,8 @@ body {
 .audio.green-audio-player .slider .progress .pin {
   height: 16px;
   width: 16px;
-  border-radius: 8px;
-  background-color: #44BFA3;
+  border-radius: 0px;
+  background-color: #FF0000;
   position: absolute;
   pointer-events: all;
   box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.32);
@@ -66,7 +66,7 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
   line-height: 18px;
-  color: #55606E;
+  color: #FF2200;
   display: flex;
   flex-grow: 1;
   justify-content: space-between;
