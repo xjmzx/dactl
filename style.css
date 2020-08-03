@@ -11,7 +11,7 @@ body {
   margin-top: 24px;
   margin-bottom: 24px;
   font-family: 'Roboto';
-  color: #FF0000;
+  color: #888888;
 }
 
 .audio.green-audio-player {
@@ -66,7 +66,7 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
   line-height: 18px;
-  color: #FF0000;
+  color: #888888;
   display: flex;
   flex-grow: 1;
   justify-content: space-between;
