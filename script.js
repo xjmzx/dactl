@@ -11,7 +11,6 @@ var player = audioPlayer.querySelector('audio');
 var currentTime = audioPlayer.querySelector('.current-time');
 var totalTime = audioPlayer.querySelector('.total-time');
 var speaker = audioPlayer.querySelector('#speaker');
-var cheese = audioPlayer.querySelector('.cheese');
 
 var draggableClasses = ['pin'];
 var currentlyDragged = null;
