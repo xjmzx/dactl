@@ -8,7 +8,8 @@ hero: 'https://source.unsplash.com/collection/11528826'
 overlay: red
 published: true
 ---
-#audio-block-example {  display: block; }
+
+audio-block-example {  display: block; }
 
 <audio controls id="audio-block-example">
 <source src="https://www.jmzx.uk/uploads/audio/A-102-In-a-day.mp3">
