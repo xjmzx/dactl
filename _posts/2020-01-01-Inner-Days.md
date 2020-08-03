@@ -9,7 +9,8 @@ overlay: red
 published: true
 ---
 
-audio-block-example {  display: block; }
+{  display: block; }
+.full-width {  display: block;  width: 100%; }
 
 <audio controls id="audio-block-example">
 <source src="https://www.jmzx.uk/uploads/audio/A-102-In-a-day.mp3">
