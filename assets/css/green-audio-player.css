@@ -5,8 +5,8 @@
     transform: rotateZ(1turn); } }
 
 .green-audio-player {
-  width: 400px;
-  min-width: 300px;
+  width: 600px;
+  min-width: 400px;
   height: 56px;
   box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.07);
   display: flex !important;
