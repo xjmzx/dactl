@@ -33,14 +33,6 @@ body {
   display: none;
   cursor: pointer;
 }
-.audio.green-audio-player .spinner {
-  width: 18px;
-  height: 18px;
-  background-image: url(https://user-images.githubusercontent.com/1854925/89234307-e736b180-d615-11ea-86a2-eecce6f5ae9b.gif);
-  background-size: cover;
-  background-repeat: no-repeat;
-  animation: spin 0.4s linear infinite;
-}
 .audio.green-audio-player .slider {
   flex-grow: 1;
   background-color: #FF0000;
@@ -56,7 +48,7 @@ body {
 .audio.green-audio-player .slider .progress .pin {
   height: 16px;
   width: 16px;
-  border-radius: 0px;
+  border-radius: 8px;
   background-color: #FF0000;
   position: absolute;
   pointer-events: all;
