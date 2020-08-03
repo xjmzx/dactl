@@ -8,6 +8,12 @@ hero: 'https://source.unsplash.com/collection/11528826'
 overlay: red
 published: true
 ---
+#audio-block-example {  display: block; }
+
+<audio controls id="audio-block-example">
+<source src="https://www.jmzx.uk/uploads/audio/A-102-In-a-day.mp3">
+<source src="https://www.jmzx.uk/uploads/y.jpg"> You will see this text if native audio playback is not supported.
+</audio>
 
 <div class="cont">
 <h3>JMZ Inner Days - A</h3>
