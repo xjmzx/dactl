@@ -36,7 +36,7 @@ body {
 .audio.green-audio-player .spinner {
   width: 18px;
   height: 18px;
-  background-image: url(https://user-images.githubusercontent.com/1854925/89233002-df294280-d612-11ea-82a6-aa34aa94fc2d.jpg);
+  background-image: url(https://user-images.githubusercontent.com/1854925/89234085-54961280-d615-11ea-890f-b05273e4b558.gif);
   background-size: cover;
   background-repeat: no-repeat;
   animation: spin 0.4s linear infinite;
