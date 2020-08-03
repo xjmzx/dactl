@@ -9,9 +9,6 @@ overlay: red
 published: true
 ---
   <p>This is a paragraph</p>
-  <audio id="song" ontimeupdate="updateTime()"><source src="https://www.jmzx.uk/uploads/audio/A-102-In-a-day.mp3" type="audio/mp3"/>Your browser does not support the audio tag.
-  </audio>
-  ![sc@2x](https://user-images.githubusercontent.com/1854925/89157177-494fd200-d596-11ea-9549-4ea8c55098f4.png)
 	<audio class="audio" controls="controls"><source type="audio/mpeg" src="https://www.jmzx.uk/uploads/audio/A-102-In-a-day.mp3?_=1">
   </audio>
   ![sc@2x](https://user-images.githubusercontent.com/1854925/89157177-494fd200-d596-11ea-9549-4ea8c55098f4.png)
