@@ -17,7 +17,7 @@ body {
 .audio.green-audio-player {
   width: 400px;
   min-width: 300px;
-  height: 56px;
+  height: 80px;
   box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.07);
   display: flex;
   justify-content: space-between;
