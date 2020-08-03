@@ -23,4 +23,4 @@ published: true
 </audio>
 
 [soundcloud jmzx inner days B](https://www.soundcloud.com/jmzx/dealin-minds-preview)
-![sc2](https://user-images.githubusercontent.com/1854925/89231232-1bf33a80-d60f-11ea-8071-36b1550183f7.png)
+![sc3](https://user-images.githubusercontent.com/1854925/89234898-3e895180-d617-11ea-84cf-553f041cafe9.png)
