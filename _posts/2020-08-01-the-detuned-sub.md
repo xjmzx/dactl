@@ -7,7 +7,7 @@ tags:
   - music
   - sub
   - tings
-hero: 'https://user-images.githubusercontent.com/1854925/89131333-3a393780-d536-11ea-840a-95f59ea1cc20.png'
+hero: 'https://user-images.githubusercontent.com/1854925/89320791-2ca5be00-d6ac-11ea-89f2-fc77aa1c460b.png'
 overlay: white
 published: true
 ---
