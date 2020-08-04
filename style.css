@@ -91,7 +91,7 @@ body {
   cursor: pointer;
 }
 .audio.green-audio-player .volume .volume-btn.open path {
-  fill: #000;
+  fill: #FF0000;
 }
 .audio.green-audio-player .volume .volume-controls {
   width: 30px;
