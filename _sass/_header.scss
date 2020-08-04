@@ -7,12 +7,12 @@ header {
 }
 
 .logo {
-    font-size: 20rem;
+    font-size: 10rem;
     font-weight: $base-font-weight-bold;
     color: var(--link-color);
 
     .logosvg {
-    	  height: 20rem;
+    	  height: 10rem;
         -webkit-filter: var(--invert-logo-color);
     }
 }
