@@ -11,7 +11,7 @@ body {
   margin-top: 24px;
   margin-bottom: 24px;
   font-family: 'Roboto';
-  color: #888888;
+  color: #FFF;
 }
 
 .audio.green-audio-player {
@@ -41,7 +41,7 @@ body {
   position: relative;
 }
 .audio.green-audio-player .slider .progress {
-  background-color: #000;
+  background-color: #FF0000;
   border-radius: inherit;
   position: absolute;
   pointer-events: none;
@@ -91,7 +91,7 @@ body {
   cursor: pointer;
 }
 .audio.green-audio-player .volume .volume-btn.open path {
-  fill: #FF0000;
+  fill: #000;
 }
 .audio.green-audio-player .volume .volume-controls {
   width: 30px;
@@ -136,7 +136,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #222;
+  background: #FF0000;
   background: -webkit-linear-gradient(-45deg, #000, #222);
   background: linear-gradient(-45deg, #000, #222);
   -webkit-font-smoothing: antialiased;
