@@ -11,10 +11,14 @@ hero: 'https://user-images.githubusercontent.com/1854925/89324720-efdcc580-d6b1-
 overlay: white
 published: true
 ---
-## n·c·s
-detuned suburban sounds
+## natural·conscious·states
+>detuned suburban sounds, reverberation, meditation, without, vexation.
+>peaceful vibes. A connection and mediation of minds, describing beliefs
+>and influences, we round up a who, why, where..
+
 <!–-break-–>
+
 ![i](https://xjmzx.github.io/uploads/0016634408_10.jpg)
 <!–-break-–>
-released on [bandcamp](https://www.natural-conscious-states.bandcamp.com/releases) January, 1st. 2019
+[released on bandcamp](https://www.natural-conscious-states.bandcamp.com/releases) January, 1st. 2019
 <!–-break-–>
