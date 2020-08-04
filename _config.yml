@@ -40,6 +40,11 @@ author:
 
 ## !!
 ## Advanced blog settings
+## jekyll
+## rouge
+## unsplash
+## group :jekyll_plugins do
+## jekyll-feed
 ## You should not change anything here unless you know what you are doing
 
 # Gems
