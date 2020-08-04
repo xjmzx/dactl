@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ··d·b···
+title: ·d·b·
 tags:
   - vibes
   - jmzx
