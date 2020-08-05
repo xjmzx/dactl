@@ -1,17 +1,18 @@
 @font-face {
-    font-family: 'icomoon';
-    src:  url('../vendor/icomoon/icomoon.eot?g4m7fo');
-  src:  url('../vendor/icomoon/icomoon.eot?g4m7fo#iefix') format('embedded-opentype'),
-    url('../vendor/icomoon/icomoon.ttf?g4m7fo') format('truetype'),
-    url('../vendor/icomoon/icomoon.woff?g4m7fo') format('woff'),
-    url('../vendor/icomoon/icomoon.svg?g4m7fo#icomoon') format('svg');
+  font-family: 'xjmzx';
+  src: url('../vendor/xjmzx/xjmzx.eot');
+  src: url('../vendor/xjmzx/xjmzx.eot?#iefix') format('embedded-opentype'),
+       url('../vendor/xjmzx/xjmzx.woff2') format('woff2'),
+       url('../vendor/xjmzx/xjmzx.woff') format('woff'),
+       url('../vendor/xjmzx/xjmzx.ttf') format('truetype'),
+       url('../vendor/xjmzx/xjmzx.svg#xjmzx') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'icomoon' !important;
+  font-family: 'xjmzx' !important;
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -25,50 +26,50 @@
 }
 
 .icon-check_box:before {
-  content: "\e834";
+  content: "\e800";
 }
 .icon-warning:before {
-  content: "\e002";
+  content: "\e801";
 }
 .icon-local_offer:before {
-  content: "\e54e";
+  content: "\eb02";
 }
 .icon-more_horiz:before {
-  content: "\e5d3";
+  content: "\e803";
 }
 .icon-code:before {
-  content: "\e86f";
+  content: "\e807";
 }
 .icon-info:before {
-  content: "\e88e";
+  content: "\e812";
 }
 .icon-invert_colors:before {
-  content: "\e891";
+  content: "\f020";
 }
 .icon-language:before {
-  content: "\e894";
+  content: "\e808";
 }
 .icon-search:before {
-  content: "\e900";
+  content: "\e80a";
 }
 .icon-invert_colors2:before {
-  content: "\e901";
+  content: "\e80c";
 }
 .icon-rss_feed:before {
-  content: "\e902";
+  content: "\e817";
 }
-.icon-mail_outline:before {
-  content: "\e903";
+.icon-mail:before {
+  content: "\e80b";
 }
 .icon-github:before {
-  content: "\e904";
+  content: "\e806";
 }
 .icon-stackoverflow:before {
-  content: "\e905";
+  content: "\e805";
 }
 .icon-twitter:before {
-  content: "\e906";
+  content: "\e804";
 }
 .icon-youtube:before {
-  content: "\e907";
+  content: "\e809";
 }
