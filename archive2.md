@@ -6,64 +6,44 @@ hero: 'https://source.unsplash.com/user/jmzx'
 overlay: orange
 ---
 
-<div class="page" markdown="1">
+<div class="page">
 
 {% capture page_subtitle %}
-<img
-    class="me"
-    alt="{{ author.name }}"
-    src="{{ site.author.photo | relative_url }}"
-    srcset="{{ site.author.photo2x | relative_url }} 2x"
-/>
+  {% include page/searchbox.html %}
 {% endcapture %}
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
-</div>
+    {% for post in site.posts %}
 
-<!-- partial:index.partial.html -->
-<div class="holder">
-  <div class="audio green-audio-player">
-    <div class="loading">
-      <div class="spinner"></div>
-    </div>
-    <div class="play-pause-btn">
-      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="24" viewBox="0 0 18 24">
-        <path fill="#000" fill-rule="evenodd" d="M18 12L0 24V0" class="play-pause-icon" id="playPause"/>
-      </svg>
-    </div>
+    {% assign category = site.my_categories | where: "slug", post.category %}
+    {% assign category = category[0] %}
+      {% if category %}
+        {% capture category_content %}<a class="label" href="{{ category.url }}">{{ category.name }}</a>{% endcapture %}
+      {% endif %}
 
-    <div class="controls">
-      <span class="current-time">0:00</span>
-      <div class="slider" data-direction="horizontal">
-        <div class="progress">
-          <div class="pin" id="progress-pin" data-method="rewind"></div>
-        </div>
-      </div>
-      <span class="total-time">0:00</span>
-    </div>
+  	{% capture month %}{{ post.date | date: '%m%Y' }}{% endcapture %}
+  	{% capture nmonth %}{{ post.next.date | date: '%m%Y' }}{% endcapture %}
+  		{% if month != nmonth %}
+  			{% if forloop.index != 1 %}
+  			</ul>
+  			{% endif %}
+  			<h1>{% include utils/date_custom_short.html date = post.date %}</h1>
+  			<ul class="related-posts">
+  		{% endif %}
 
-    <div class="volume">
-      <div class="volume-btn">
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-          <path fill="#000" fill-rule="evenodd" d="M14.667 0v2.747c3.853 1.146 6.666 4.72 6.666 8.946 0 4.227-2.813 7.787-6.666 8.934v2.76C20 22.173 24 17.4 24 11.693 24 5.987 20 1.213 14.667 0zM18 11.693c0-2.36-1.333-4.386-3.333-5.373v10.707c2-.947 3.333-2.987 3.333-5.334zm-18-4v8h5.333L12 22.36V1.027L5.333 7.693H0z" id="speaker"/>
-        </svg>
-      </div>
-      <div class="volume-controls hidden">
-        <div class="slider" data-direction="vertical">
-          <div class="progress">
-            <div class="pin" id="volume-pin" data-method="changeVolume"></div>
-          </div>
-        </div>
-      </div>
-    </div>
+      {% include page/post-list-item.html %}
 
-    <audio crossorigin>
-      <source src="https://www.jmzx.uk/uploads/audio/A-102-In-a-day.mp3" type="audio/mpeg">
-    </audio>
+      {% comment %}
+      tagi w archiwum <span class="post-tag right">{{ tags_content }}</span>
+      {% endcomment %}
+
+     {% endfor %}
+  	 </ul>
+
+
+  {% comment %}
+    {% include utils/tag-box.html %}
+  {% endcomment %}
+
   </div>
-
-  <a class="get-it-on-github" href="https://github.com/xjmzx" target="_blank">Get it on Github</a>
-</div>
-<!-- partial -->
-  <script  src="./script.js"></script>
