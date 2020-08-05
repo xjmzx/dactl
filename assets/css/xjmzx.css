@@ -61,7 +61,6 @@
 .icon-right-big:before { content: '\e803'; } /* '' */
 .icon-twitter-1:before { content: '\e804'; } /* '' */
 .icon-stackoverflow:before { content: '\e805'; } /* '' */
-.icon-github:before { content: '\e806'; } /* '' */
 .icon-code:before { content: '\e807'; } /* '' */
 .icon-globe:before { content: '\e808'; } /* '' */
 .icon-vimeo-1:before { content: '\e809'; } /* '' */
@@ -75,4 +74,4 @@
 .icon-religious-christian:before { content: '\e82f'; } /* '' */
 .icon-color-adjust:before { content: '\f020'; } /* '' */
 .icon-bandcamp:before { content: '\f32b'; } /* '' */
-.icon-github_circled-1:before { content: '\f301'; } /* '' */
+.icon-github-circled-1:before { content: '\f301'; } /* '' */
