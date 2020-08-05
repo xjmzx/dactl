@@ -2,6 +2,8 @@
 layout: page
 title: music
 permalink: /music/
+hero: 'https://source.unsplash.com/user/jmzx'
+overlay: orange
 ---
 
 <div class="page" markdown="1">
