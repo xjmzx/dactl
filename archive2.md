@@ -64,3 +64,8 @@ permalink: /music/
 </div>
 <!-- partial -->
   <script  src="./script.js"></script>
+
+<p>
+>"Cautious, like crossing a river in the winter."
+>— Lao Tzu, Tao Te Ching, Ch. 15
+</p>
