@@ -23,4 +23,4 @@ published: true
 </audio>
 
 [soundcloud](https://www.soundcloud.com/jmzx/dealin-minds-preview)
-![sc](https:/www.jmzx.uk/uploads.sc.png)
+![sc](https:/www.jmzx.uk/uploads/sc.png)

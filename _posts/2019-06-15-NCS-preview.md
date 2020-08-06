@@ -15,7 +15,7 @@ published: true
 [Bandcamp](https://www.natural-conscious-states.bandcamp.com/releases)
 <!–-break-–>
 [Soundcloud](https://www.soundcloud.com/jmzx/dealin-minds-preview)
-![sc](https://user-images.githubusercontent.com/1854925/89234898-3e895180-d617-11ea-84cf-553f041cafe9.png)
+![sc](https:/www.jmzx.uk/uploads/sc.png)
 <!–-break-–>
 <article>
 	<div class="cont">
