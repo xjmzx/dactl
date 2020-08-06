@@ -55,8 +55,8 @@
     outline: none
   }
   &:hover {
-    // background: rgba(110, 110, 110, .5);
-    background: var(--table-header-color);
+background: rgba(110, 110, 110, .5);
+        // background: var(--table-header-color);
     outline: none;
     &:after {
       color: var(--text-color);
