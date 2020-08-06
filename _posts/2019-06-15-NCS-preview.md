@@ -10,7 +10,7 @@ hero: 'https://source.unsplash.com/user/jmzx'
 overlay: orange
 published: true
 ---
-### ncs detuned suburban sounds
+### n·c·s detuned suburban sounds
 <!–-break-–>
 [Bandcamp](https://www.natural-conscious-states.bandcamp.com/releases)
 <!–-break-–>

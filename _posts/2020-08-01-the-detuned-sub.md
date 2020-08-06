@@ -18,7 +18,12 @@ published: true
 
 <!–-break-–>
 
-![lion](https://xjmzx.github.io/uploads/0016634408_10.jpg)
+<style>
+div {
+  background-image: url('https://xjmzx.github.io/uploads/0016634408_10.jpg');
+}
+</style>
+
 <!–-break-–>
-[released on bandcamp](https://www.natural-conscious-states.bandcamp.com/releases) January, 1st. 2019
+[on Bandcamp](https://www.natural-conscious-states.bandcamp.com/releases) January, 1st. 2019
 <!–-break-–>

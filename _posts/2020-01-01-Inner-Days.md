@@ -8,7 +8,7 @@ hero: 'https://source.unsplash.com/collection/11528826'
 overlay: red
 published: true
 ---
-
+###  detuned|suburban·sounds
 <div class="cont">
 <h3></h3>
 </div>
@@ -23,4 +23,4 @@ published: true
 </audio>
 
 [soundcloud](https://www.soundcloud.com/jmzx/dealin-minds-preview)
-![sc](https://user-images.githubusercontent.com/1854925/89234898-3e895180-d617-11ea-84cf-553f041cafe9.png)
+![sc](https:/www.jmzx.uk/uploads.sc.png)
