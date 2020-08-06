@@ -18,7 +18,7 @@ published: true
 
 <!–-break-–>
 
-![i](https://xjmzx.github.io/uploads/0016634408_10.jpg)
+![lion](https://xjmzx.github.io/uploads/0016634408_10.jpg)
 <!–-break-–>
 [released on bandcamp](https://www.natural-conscious-states.bandcamp.com/releases) January, 1st. 2019
 <!–-break-–>
