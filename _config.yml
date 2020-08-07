@@ -9,7 +9,7 @@ blog:
   description                  : >
                                  www.jmzx.uk  ℗ 2020
 # Layout configuration
-  logo_path                  : "uploads/Lx.png" # path to logo file
+  logo_path                  : "https://user-images.githubusercontent.com/1854925/89674325-24e75300-d912-11ea-8ad2-7e5d6a3eece3.png" # path to logo file
   search_path                : "xjmzx.github.io"
                                # needed for searchbox in archive page
   hero_layout                : true # turn on hero layout for blog and posts
