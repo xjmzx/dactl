@@ -5,11 +5,11 @@ url                          : "http://xjmzx.github.io" # the base hostname & pr
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : jmzx ···    
+  title                      : jmzx ···
   description                  : >
                                  www.jmzx.uk  ℗ 2020
 # Layout configuration
-  logo_path                  : "assets/img/dactl7.png" # path to logo file
+  logo_path                  : "uploads/Lx.png" # path to logo file
   search_path                : # "yourgitusername.github.io"
                                # needed for searchbox in archive page
   hero_layout                : true # turn on hero layout for blog and posts
