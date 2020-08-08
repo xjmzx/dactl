@@ -1,6 +1,6 @@
 ---
 layout: page
-title: archive
+title: arc
 hero: 'https://source.unsplash.com/user/jmzx'
 overlay: orange
 permalink: /archive/
