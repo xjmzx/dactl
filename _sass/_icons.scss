@@ -23,7 +23,9 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+.icon-vimeo:before {
+  content: "\l";
+}
 .icon-check:before {
   content: "\n";
 }
@@ -41,12 +43,6 @@
 }
 .icon-morse:before {
   content: "\z";
-}
-.icon-darkc:before {
-  content: "\x";
-}
-.icon-darko:before {
-  content: "\G";
 }
 .icon-rss:before {
   content: "\h";
@@ -75,6 +71,9 @@
 .icon-twitter:before {
   content: "\r";
 }
-.icon-vimeo:before {
-  content: "\l";
+.icon-darkc:before {
+  content: "\x";
+}
+.icon-darko:before {
+  content: "\G";
 }
