@@ -2,7 +2,6 @@
   font-family: 'xjmzx';
   src: url('../vendor/xjmzx/xjmzx.eot');
   src: url('../vendor/xjmzx/xjmzx.eot?#iefix') format('embedded-opentype'),
-       url('../vendor/xjmzx/xjmzx.woff2') format('woff2'),
        url('../vendor/xjmzx/xjmzx.woff') format('woff'),
        url('../vendor/xjmzx/xjmzx.ttf') format('truetype'),
        url('../vendor/xjmzx/xjmzx.svg#xjmzx') format('svg');
@@ -26,56 +25,56 @@
 }
 
 .icon-check:before {
-  content: "n";
+  content: "\n";
 }
 .icon-warning:before {
-  content: "o";
+  content: "\o";
 }
 .icon-location:before {
-  content: "g";
+  content: "\g";
 }
 .icon-more:before {
-  content: "q";
+  content: "\q";
 }
 .icon-code:before {
-  content: "t";
+  content: "\t";
 }
 .icon-morse:before {
-  content: "z";
+  content: "\z";
 }
 .icon-dark-c:before {
-  content: "x";
+  content: "\x";
 }
 .icon-language:before {
-  content: "u";
+  content: "\u";
 }
 .icon-search:before {
-  content: "v";
+  content: "\v";
 }
 .icon-dark-o:before {
-  content: "G";
+  content: "\G";
 }
 .icon-rss:before {
-  content: "h";
+  content: "\h";
 }
 .icon-mail:before {
-  content: "w";
+  content: "\w";
 }
 .icon-git:before {
-  content: "d";
+  content: "\d";
 }
 .icon-gitl:before {
-  content: "E";
+  content: "\E";
 }
 .icon-stack:before {
-  content: "s";
+  content: "\s";
 }
 .icon-soundcloud:before {
-  content: "j";
+  content: "\j";
 }
 .icon-twitter:before {
-  content: "r";
+  content: "\r";
 }
 .icon-vimeo:before {
-  content: "l";
+  content: "\l";
 }
