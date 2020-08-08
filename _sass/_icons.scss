@@ -25,7 +25,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-checklist:before {
+.icon-check:before {
   content: "\n";
 }
 .icon-warning:before {
@@ -43,7 +43,7 @@
 .icon-morse:before {
   content: "\z";
 }
-.icon-dark-close:before {
+.icon-dark-c:before {
   content: "\x";
 }
 .icon-language:before {
@@ -52,7 +52,7 @@
 .icon-search:before {
   content: "\v";
 }
-.icon-dark-open:before {
+.icon-dark-o:before {
   content: "\G";
 }
 .icon-rss:before {
@@ -67,7 +67,7 @@
 .icon-gitlab:before {
   content: "\E";
 }
-.icon-stackoverflow:before {
+.icon-stack:before {
   content: "\s";
 }
 .icon-soundcloud:before {
