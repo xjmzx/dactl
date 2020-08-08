@@ -91,7 +91,7 @@ const iconForTheme = (themeName) => {
   if (themeName === NightTheme.themeName) {
     return 'icon-invert-colors'
   } else {
-    return 'icon-invert-colors2'
+    return 'icon-invert-colors-2'
   }
 }
 
