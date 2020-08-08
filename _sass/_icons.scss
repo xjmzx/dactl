@@ -42,8 +42,11 @@
 .icon-morse:before {
   content: "\z";
 }
-.icon-dark-c:before {
+.icon-darkc:before {
   content: "\x";
+}
+.icon-darko:before {
+  content: "\G";
 }
 .icon-rss:before {
   content: "\h";
@@ -54,16 +57,13 @@
 .icon-search:before {
   content: "\v";
 }
-.icon-dark-o:before {
-  content: "\G";
-}
 .icon-mail:before {
   content: "\w";
 }
 .icon-git2:before {
   content: "\y";
 }
-.icon-gitlab:before {
+.icon-gl:before {
   content: "\E";
 }
 .icon-stack:before {
