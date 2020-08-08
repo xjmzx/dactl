@@ -49,6 +49,13 @@
             </a>
         </li>
         {% endif %}
+        {% if site.author.gitlab %}
+        <li>
+            <a href="https://gitlab.com/{{ site.author.gitlab }}" target="_blank" class="smaller">
+              <span class="icon-gitl"></span>
+            </a>
+        </li>
+        {% endif %}
         {% if site.author.mail %}
         <li>
             <a href="mailto:{{ site.author.mail }}" target="_blank">
