@@ -68,11 +68,13 @@
             <span class="icon-rss"></span>
             </a>
         </li>
-        {% endif %}
+        <div class="jazz">
+          <ul>
+            {% if site.author.youtube %}
         <li>
-            <a href="#" onclick="switchTheme()" title="Switch theme?">
-              <span class="icon-invert_colors" id="theme-switcher"></span>
-            </a>
+            <a href="https://gitlab.com/{{ site.author.gitlab }}" target="_blank" class="smaller">
+            <span class="icon-neutral"></span>
+          </a>
         </li>
       </ul>
     </div>
