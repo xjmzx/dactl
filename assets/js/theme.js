@@ -25,7 +25,7 @@ const LightTheme = {
 }
 
 const NightTheme = {
-  '--bg-color': '#1c1c1c',
+  '--bg-color': '#222',
   '--text-color': '#c4c4c4',
   '--text-color-light': '#777',
   '--link-color': '#f1f1f1',
