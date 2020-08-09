@@ -3,7 +3,7 @@ layout: page
 title: arc
 hero: 'https://source.unsplash.com/user/jmzx'
 overlay: orange
-permalink: /archive/
+permalink: /arc/
 ---
 
 <div class="page">
