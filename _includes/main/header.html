@@ -58,26 +58,21 @@
         {% if site.author.mail %}
         <li>
             <a href="mailto:{{ site.author.mail }}" target="_blank">
-              <span class="icon-mail"></span>
+              <span class="icon-mail_outline"></span>
             </a>
         </li>
         {% endif %}
         {% if site.author.rss == true %}
         <li>
             <a href="{{ '/feed.xml' | prepend: site.baseurl }}" target="_blank">
-            <span class="icon-rss"></span>
+                <span class="icon-rss_feed"></span>
             </a>
         </li>
-      </ul>
-    </div>
-
-        <div class="jazz">
-          <ul>
-            {% if site.author.neutral %}
+        {% endif %}
         <li>
-            <a href="https://neutral.com/{{ site.author.neutral }}" target="_blank" class="smaller">
-            <span class="icon-neutral"></span>
-          </a>
+            <a href="#" onclick="switchTheme()" title="Switch theme?">
+              <span class="icon-invert_colors" id="theme-switcher"></span>
+            </a>
         </li>
       </ul>
     </div>
