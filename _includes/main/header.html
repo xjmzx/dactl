@@ -1,16 +1,16 @@
 <header>
     <div class="menu">
       <div class="logo">
+
         <a href="{{ '/' | prepend: site.baseurl }}">{{ site.blog.title }}</a>
         <object type="image/svg+xml" data="{{ site.blog.logo_path | relative_url }}" class="logosvg">does not support svg ima</object>
       </div>
+
         <ul>
             <li><a href="{{ '/j' | prepend: site.baseurl }}">J</a></li>
             <li><a href="{{ '/arc' | prepend: site.baseurl }}">arc</a></li>
-            <li><a href="{{ '/music' | prepend: site.baseurl }}">music</a></li>
         </ul>
     </div>
-    <!–-break-–>
     <div class="social">
       <ul>
         {% if site.author.vimeo %}
