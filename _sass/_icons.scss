@@ -23,36 +23,45 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+// l
 .icon-vimeo:before {
-  content: "\l";
+  content: "\6c";
 }
-.icon-rss:before {
-  content: "\h";
+// j
+.icon-soundcloud:before {
+  content: "\6a";
 }
-.icon-mail:before {
-  content: "\w";
+// s
+.icon-stack:before {
+  content: "\6b";
+}
+// r
+.icon-twitter:before {
+  content: "\72";
 }
 .icon-git:before {
-  content: "\y";
+  content: "\64";
 }
+// g
 .icon-gl:before {
-  content: "\g";
+  content: "\45";
 }
-.icon-stack:before {
-  content: "\s";
+// w
+.icon-mail:before {
+  content: "\77";
 }
-.icon-soundcloud:before {
-  content: "\j";
+// h
+.icon-rss:before {
+  content: "\68";
 }
-.icon-twitter:before {
-  content: "\r";
-}
+// theme
 .icon-invert_colors2:before {
   content: "\78";
 }
 .icon-invert_colors:before {
   content: "\44";
 }
+// faces
 .icon-neutral:before {
   content: "\61"
 }
@@ -67,4 +76,74 @@
 }
 .icon-smile:before {
   content: "\69"
+}
+// other
+.icon-apple:before {
+  content: "\62";
+}
+.icon-hacker:before {
+  content: "\65";
+}
+.icon-location:before {
+  content: "\67";
+}
+.icon-check:before {
+  content: "\6e";
+}
+.icon-warning:before {
+  content: "\6f";
+}
+.icon-location2:before {
+  content: "\70";
+}
+.icon-more:before {
+  content: "\71";
+}
+.icon-stack2:before {
+  content: "\73";
+}
+.icon-code:before {
+  content: "\74";
+}
+.icon-language:before {
+  content: "\75";
+}
+.icon-search:before {
+  content: "\76";
+}
+.icon-git2:before {
+  content: "\79";
+}
+.icon-morse:before {
+  content: "\7a";
+}
+.icon-rss2:before {
+  content: "\41";
+}
+.icon-mail2:before {
+  content: "\42";
+}
+.icon-christ:before {
+  content: "\43";
+}
+.icon-band:before {
+  content: "\46";
+}
+.icon-contrast:before {
+  content: "\47";
+}
+.icon-bitcoin:before {
+  content: "\48";
+}
+.icon-git3:before {
+  content: "\49";
+}
+.icon-git-branch:before {
+  content: "\4a";
+}
+.icon-invert3:before {
+  content: "\4b";
+}
+.icon-invert4:before {
+  content: "\4c";
 }
