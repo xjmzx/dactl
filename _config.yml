@@ -5,9 +5,9 @@ url                          : "https://xjmzx.github.io" # the base hostname & p
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : Natural Conscious States | Lorem
+  title                      : g-scape | ···
   description                  : >
-                                 www.jmzx.uk  ℗ 2020
+                                 www.jmzx.uk ℗ 2020
 # Layout configuration
   logo_path                  : "uploads/LMktskm.svg" # path to logo file
   search_path                : "xjmzx.github.io"
