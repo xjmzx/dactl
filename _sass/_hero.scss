@@ -55,7 +55,7 @@
 
 // Container for hero image source link
 .post-source-img {
-    background-color: rgba(0,0,0,.5);
+    background-color: rgba(0,0,0,0);
     position: absolute;
     visibility: hidden;
     bottom: 0;
@@ -91,6 +91,6 @@
     visibility: visible;
   }
   &:hover:before {
-    color: #FF0000;
+    color: #000;
   }
 }
