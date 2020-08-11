@@ -9,7 +9,7 @@ blog:
   description                  : >
 
 # Layout configuration
-  logo_path                  : "uploads/LMktskm.svg" # path to logo file
+  logo_path                  : "uploads/LMktskm2.svg" # path to logo file
   search_path                : "xjmzx.github.io"
                                # needed for searchbox in archive page
   hero_layout                : true # turn on hero layout for blog and posts
