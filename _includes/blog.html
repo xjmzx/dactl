@@ -63,7 +63,8 @@
     {% if site.blog.excerpts == true %}
       {{ post.excerpt }}
         <div class="readmore">
-          <a href="{{ post.url | prepend:site.baseurl }}" role="button">Read more</a>
+          <p style="font-size:10px;">
+          <a href="{{ post.url | prepend:site.baseurl }}" role="button">Read more</a></p>
         <div>
 
     {% else if site.blog.excerpts == false %}
