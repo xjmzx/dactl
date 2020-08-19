@@ -24,27 +24,55 @@
           </ul>
         </div>
 
-    <div class="social">
-      <ul>
-        {% if site.author.soundcloud %}
-        <li>
-            <a href="https://soundcloud.com/{{ site.author.soundcloud }}" target="_blank" class="smaller">
-              <span class="icon-soundcloud"></span>
-            </a>
-        </li>
-        {% endif %}
-        {% if site.author.mail %}
-        <li>
-            <a href="mailto:{{ site.author.mail }}" target="_blank">
-              <span class="icon-mail"></span>
-            </a>
-        </li>
-        {% endif %}
-        <li>
-            <a href="#" onclick="switchTheme()" title="Switch theme?">
-              <span class="icon-invert_colors" id="theme-switcher"></span>
-            </a>
-        </li>
-      </ul>
-    </div>
+<div class="social">
+  <ul>
+    {% if site.author.soundcloud %}
+    <li>
+        <a href="https://soundcloud.com/{{ site.author.soundcloud }}" target="_blank" class="smaller">
+          <span class="icon-soundcloud"></span>
+        </a>
+    </li>
+    {% endif %}
+    {% if site.author.stackoverflow %}
+    <li>
+        <a href="https://stackoverflow.com/{{ site.author.stackoverflow }}" target="_blank" class="smaller">
+          <span class="icon-stackoverflow"></span>
+        </a>
+    </li>
+    {% endif %}
+    {% if site.author.twitter %}
+    <li>
+        <a href="https://twitter.com/{{ site.author.twitter }}" target="_blank" class="smaller">
+          <span class="icon-twitter"></span>
+        </a>
+    </li>
+    {% endif %}
+    {% if site.author.github %}
+    <li>
+        <a href="https://github.com/{{ site.author.github }}" target="_blank" class="smaller">
+          <span class="icon-github"></span>
+        </a>
+    </li>
+    {% endif %}
+    {% if site.author.mail %}
+    <li>
+        <a href="mailto:{{ site.author.mail }}" target="_blank">
+          <span class="icon-mail"></span>
+        </a>
+    </li>
+    {% endif %}
+    {% if site.author.rss == true %}
+    <li>
+        <a href="{{ '/feed.xml' | prepend: site.baseurl }}" target="_blank">
+            <span class="icon-rss_feed"></span>
+        </a>
+    </li>
+    {% endif %}
+    <li>
+        <a href="#" onclick="switchTheme()" title="Switch theme?">
+          <span class="icon-invert_colors" id="theme-switcher"></span>
+        </a>
+    </li>
+  </ul>
+</div>
 </header>
