@@ -1,34 +1,28 @@
 <header>
-
-  <div class="honngkong">
-
-      <a href="https://www.jmzx.uk/indexa.html" target="_blank" class="smaller">
-    <span class="icon-hipster"></span>
-      </a>
-      <a href="https://www.jmzx.uk/blog.md" target="_blank" class="smaller">
-    <span class="icon-wonder"></span>
-      </a>
-      <a href="https://www.jmzx.uk/index.html" target="_blank" class="smaller">
-    <span class="icon-neutral"></span>
-      </a>
-      <a href="https://www.jmzx.uk/index.html" target="_blank" class="smaller">
-    <span class="icon-smile"></span>
-      </a>
-      <a href="https://www.jmzx.uk/index.html" target="_blank" class="smaller">
-    <span class="icon-confused"></span>
-      </a>
-    </div>
-
-    <div class="menu">
-      <div class="logo">
-
-        <a href="{{ '/' | prepend: site.baseurl }}">{{ site.blog.title }}</a>
-        <object type="image/svg+xml" data="{{ site.blog.logo_path | relative_url }}" class="logosvg">does</object>
-        <ul>
+      <div class="menu">
+        <div class="logo">
+          <ul>
+            <li><a href="https://www.jmzx.uk/indexa.html" target="_blank" class="smaller">
+              <span class="icon-hipster"></span>
+            </a></li>
+            <li><a href="https://www.jmzx.uk/blog.md" target="_blank" class="smaller">
+              <span class="icon-wonder"></span>
+            </a></li>
+            <li><a href="https://www.jmzx.uk/index.html" target="_blank" class="smaller">
+              <span class="icon-neutral"></span>
+            </a></li>
+            <li><a href="https://www.jmzx.uk/index.html" target="_blank" class="smaller">
+              <span class="icon-smile"></span>
+            </a></li>
+            <li><a href="https://www.jmzx.uk/index.html" target="_blank" class="smaller">
+              <span class="icon-confused"></span>
+            </a></li>
+            <li><a href="{{ '/' | prepend: site.baseurl }}">{{ site.blog.title }}</a>
+              <object type="image/svg+xml" data="{{ site.blog.logo_path | relative_url }}" class="logosvg">does</object>
             <li><a href="{{ '/j' | prepend: site.baseurl }}">JMZX</a></li>
             <li><a href="{{ '/arc' | prepend: site.baseurl }}">g-scape archive</a></li>
-        </ul>
-    </div>
+          </ul>
+        </div>
 
     <div class="social">
       <ul>
@@ -46,16 +40,6 @@
             </a>
         </li>
         {% endif %}
-        <!--
-        {% if site.author.rss == true %}
-        <li>
-            <a href="{{ '/feed.xml' | prepend: site.baseurl }}" target="_blank">
-                <span class="icon-rss"></span>
-            </a>
-        </li>
-        {% endif %}
-        //-->
-
         <li>
             <a href="#" onclick="switchTheme()" title="Switch theme?">
               <span class="icon-invert_colors" id="theme-switcher"></span>
