@@ -32,27 +32,25 @@
 }
 
 .icon-vimeo {
-  color: DeepSkyBlue;
+color: DeepSkyBlue;
+content: "\6c";
 }
 .icon-twitter {
-  color: white;
+color: white;
+content: "\6c";
 }
 .icon-soundcloud {
-  color: #ff5a00;
+color: #ff5a00;
+content: "\6c";
 }
 
 // l
 .icon-vimeo:before {
-  content: "\6c";
+content: "\6c";
 }
 // j
 .icon-soundcloud:before {
   content: "\6a";
-}
-// s
-.icon-stack:before {
-  color: white;
-  content: "\6b";
 }
 // r
 .icon-twitter:before {
@@ -164,21 +162,9 @@
   color: white;
   content: "\42";
 }
-.icon-christ:before {
-  color: white;
-  content: "\43";
-}
-.icon-band:before {
-  color: white;
-  content: "\46";
-}
 .icon-contrast:before {
   color: white;
   content: "\47";
-}
-.icon-bitcoin:before {
-  color: white;
-  content: "\48";
 }
 .icon-git3:before {
   color: white;
